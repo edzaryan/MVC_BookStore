@@ -90,7 +90,14 @@ namespace BookStore.Repository
                 BookPdfFileUrl = model.BookPdfFileUrl
             };
 
-            newBook.bookGallery = new List<BookGallery>();
+            newBook.bookGallery = new List<BookGallery>
+            {
+                new BookGallery
+                {
+                    Name = model.CoverPhoto.FileName,
+                    URL = model.CoverImageUrl
+                }
+            };
 
             foreach (var file in model.Gallery)
             {
@@ -111,66 +118,5 @@ namespace BookStore.Repository
         {
             return null;
         }
-
-        //private List<BookModel> DataSource()
-        //{
-        //    return new List<BookModel>()
-        //    {
-        //        new BookModel() { 
-        //            Id = 1, 
-        //            Title = "MVC", 
-        //            Author = "Naira Margaryan", 
-        //            Description = "MVC This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 560,
-        //        },
-        //        new BookModel() { 
-        //            Id = 2, 
-        //            Title = "C#", 
-        //            Author = "David Blane",
-        //            Description = "C# This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 1560,
-        //        },
-        //        new BookModel() { 
-        //            Id = 3, 
-        //            Title = "Java", 
-        //            Author = "Jack Swarrow",
-        //            Description = "Java This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 1260,
-        //        },
-        //        new BookModel() { 
-        //            Id = 4, 
-        //            Title = "Ruby", 
-        //            Author = "Karen Fisher",
-        //            Description = "Ruby This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 510,
-        //        },
-        //        new BookModel() { 
-        //            Id = 5, 
-        //            Title = "C++", 
-        //            Author = "Garik Martirosyan",
-        //            Description = "C++ This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 560,
-        //        },
-        //        new BookModel() { 
-        //            Id = 6, 
-        //            Title = "C", 
-        //            Author = "Karen Stepanyan",
-        //            Description = "C This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-        //            Category = "Programming",
-        //            Language = "English",
-        //            TotalPage = 860,
-        //        },
-        //    };
-        //}
     }
 }

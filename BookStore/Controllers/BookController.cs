@@ -61,6 +61,8 @@ namespace BookStore.Controllers
         }
 
         [HttpPost("add-book")]
+        [RequestFormLimits(MultipartBodyLengthLimit = 152428800)]
+        [RequestSizeLimit(152428800)]
         public async Task<IActionResult> AddNewBook(BookModel bookModel)
         {
             if (ModelState.IsValid)

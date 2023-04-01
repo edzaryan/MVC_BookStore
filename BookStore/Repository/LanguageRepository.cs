@@ -19,7 +19,6 @@ namespace BookStore.Repository
             {
                 Id = x.Id,
                 Name = x.Name,
-                Description = x.Description
             }).ToListAsync();
 
             return languages;

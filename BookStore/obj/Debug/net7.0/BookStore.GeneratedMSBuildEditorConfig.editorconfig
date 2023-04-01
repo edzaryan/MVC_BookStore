@@ -9,105 +9,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookStore
 build_property.RootNamespace = BookStore
-build_property.ProjectDir = C:\Users\Dell\OneDrive\Desktop\BookStore\BookStore\
+build_property.ProjectDir = C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Dell\OneDrive\Desktop\BookStore\BookStore
+build_property.MSBuildProjectDirectory = C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Areas/Admin/Views/Home/Details.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Areas/Admin/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/ChangePassword.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/ForgotPassword.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/Login.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/ResetPassword.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/Signup.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Account/_Layout.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Account/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Book/AddNewBook.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Book/AddNewBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBZGROZXdCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Book/GetAllBooks.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Book/GetAllBooks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRBbGxCb29rcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Book/GetBook.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Book/GetBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Home/AboutUs.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Home/ContactUs.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Home/Index.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/Components/TopBooks/Default.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/Components/TopBooks/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG9wQm9va3NcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/_BookThumbnail.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/_BookThumbnail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb29rVGh1bWJuYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/_Footer.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/_Header.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/_Layout.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/Shared/_LoginInfo.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/Shared/_LoginInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/_ViewImports.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/OneDrive/Desktop/BookStore/BookStore/Views/_ViewStart.cshtml]
+[C:/Users/Dell/OneDrive/Desktop/MVC_BookStore/BookStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2RNJdGcYo3Q6174T1S6NW1p2eXplER5zdnd/lGMkjqQ=",
+  "Hash": "GEYi5erOS7plEqLkCEOBWgt4wMhmUrwwjYw2FA40P1A=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookStore\\wwwroot",
       "Source": "BookStore",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\css\\Style.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\css\\Style.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "css/Style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\css\\style.min.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\css\\style.min.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "css/style.min.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\css\\Style2.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\css\\Style2.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "css/Style2.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Style2.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\favicon.ico",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\0808b8f4-001a-47bf-be0e-8c9d8132fab7_The Definitive Guide to Django - Apress.pdf",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\01b97c2c-7062-478e-b0e9-8b117cc10fbe_Beginning_Git_and_GitHub_(2020).pdf",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/bookPdfFiles/0808b8f4-001a-47bf-be0e-8c9d8132fab7_The Definitive Guide to Django - Apress.pdf",
+      "RelativePath": "files/books/bookPdfFiles/01b97c2c-7062-478e-b0e9-8b117cc10fbe_Beginning_Git_and_GitHub_(2020).pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\0808b8f4-001a-47bf-be0e-8c9d8132fab7_The Definitive Guide to Django - Apress.pdf"
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\01b97c2c-7062-478e-b0e9-8b117cc10fbe_Beginning_Git_and_GitHub_(2020).pdf"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\29c46764-21e2-411f-9f19-aa6eccaa7127_1.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\1557c693-f85a-4d23-bfeb-d73933b698c8_Learn_PHP_8_2nd_Edition_(2020).pdf",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/coverImages/29c46764-21e2-411f-9f19-aa6eccaa7127_1.jpg",
+      "RelativePath": "files/books/bookPdfFiles/1557c693-f85a-4d23-bfeb-d73933b698c8_Learn_PHP_8_2nd_Edition_(2020).pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\29c46764-21e2-411f-9f19-aa6eccaa7127_1.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\1557c693-f85a-4d23-bfeb-d73933b698c8_Learn_PHP_8_2nd_Edition_(2020).pdf"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\51ebcdfc-8fd3-4952-a9c3-28d0499e79af_1.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\29eac4b2-b4bb-495c-b3c4-f5c01768e81f_11.pdf",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/coverImages/51ebcdfc-8fd3-4952-a9c3-28d0499e79af_1.jpg",
+      "RelativePath": "files/books/bookPdfFiles/29eac4b2-b4bb-495c-b3c4-f5c01768e81f_11.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\51ebcdfc-8fd3-4952-a9c3-28d0499e79af_1.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\29eac4b2-b4bb-495c-b3c4-f5c01768e81f_11.pdf"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\bdbaa9c4-e4bf-44e5-a7bb-a1d3e0340475_django_cover_.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\59b685ea-9a6a-4bf5-be00-35d2e884f6ed_Head_First_Java_Second_Edition.pdf",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/coverImages/bdbaa9c4-e4bf-44e5-a7bb-a1d3e0340475_django_cover_.jpg",
+      "RelativePath": "files/books/bookPdfFiles/59b685ea-9a6a-4bf5-be00-35d2e884f6ed_Head_First_Java_Second_Edition.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,13 +150,319 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\bdbaa9c4-e4bf-44e5-a7bb-a1d3e0340475_django_cover_.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\59b685ea-9a6a-4bf5-be00-35d2e884f6ed_Head_First_Java_Second_Edition.pdf"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\NotFound.png",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\6dbbb0b0-59ec-4820-9422-e4df9a3241c8_Scala for the Impatient, 2nd Edition.pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/6dbbb0b0-59ec-4820-9422-e4df9a3241c8_Scala for the Impatient, 2nd Edition.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\6dbbb0b0-59ec-4820-9422-e4df9a3241c8_Scala for the Impatient, 2nd Edition.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\7c64fba0-1b7a-46bc-9403-a759bcbf23ea_Beginning_Git_and_GitHub_(2020).pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/7c64fba0-1b7a-46bc-9403-a759bcbf23ea_Beginning_Git_and_GitHub_(2020).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\7c64fba0-1b7a-46bc-9403-a759bcbf23ea_Beginning_Git_and_GitHub_(2020).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\a8a0c944-d076-436d-8980-e8d228482a47_Python_All-In-One_for_Dummies.pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/a8a0c944-d076-436d-8980-e8d228482a47_Python_All-In-One_for_Dummies.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\a8a0c944-d076-436d-8980-e8d228482a47_Python_All-In-One_for_Dummies.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\bcd7faf8-e2c0-4f64-895a-c26c00acdd14_Kotlin_in_Action_(2017).pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/bcd7faf8-e2c0-4f64-895a-c26c00acdd14_Kotlin_in_Action_(2017).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\bcd7faf8-e2c0-4f64-895a-c26c00acdd14_Kotlin_in_Action_(2017).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(2020).pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(2020).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(2020).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/bookPdfFiles/edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\01fd088e-db1a-4e60-b6ef-ae96c2afddab_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/01fd088e-db1a-4e60-b6ef-ae96c2afddab_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\01fd088e-db1a-4e60-b6ef-ae96c2afddab_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\04734f18-dc2e-4ed5-bf47-5be69608dc9a_1.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/04734f18-dc2e-4ed5-bf47-5be69608dc9a_1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\04734f18-dc2e-4ed5-bf47-5be69608dc9a_1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\1a059024-fb6e-410d-85db-963ba3f455b4_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/1a059024-fb6e-410d-85db-963ba3f455b4_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\1a059024-fb6e-410d-85db-963ba3f455b4_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/1e15c7af-09d5-4484-9cf7-bbf4f4f706f3_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\359ee713-f716-488c-866d-d05c57bafc1b_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/359ee713-f716-488c-866d-d05c57bafc1b_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\359ee713-f716-488c-866d-d05c57bafc1b_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\87b8a2c5-6f10-4443-9eb1-591e15f2b308_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/87b8a2c5-6f10-4443-9eb1-591e15f2b308_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\87b8a2c5-6f10-4443-9eb1-591e15f2b308_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\a224595a-1dbf-4240-992e-859f6a287cfa_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/a224595a-1dbf-4240-992e-859f6a287cfa_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\a224595a-1dbf-4240-992e-859f6a287cfa_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\e021b60d-5c7c-4a59-96d3-32bcf10bccb2_1491922850.01._SCLZZZZZZZ_SX500_.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/e021b60d-5c7c-4a59-96d3-32bcf10bccb2_1491922850.01._SCLZZZZZZZ_SX500_.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\e021b60d-5c7c-4a59-96d3-32bcf10bccb2_1491922850.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/coverImages/fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\NotFound.png",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "files/books/coverImages/NotFound.png",
       "AssetKind": "All",
@@ -170,12 +476,12 @@
       "OriginalItemSpec": "wwwroot\\files\\books\\coverImages\\NotFound.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\00a028f6-1c14-41d7-a118-e9157c9d1040_Java_3.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\13b12719-0aa3-4aa9-91d5-c96e60f28712_4.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/00a028f6-1c14-41d7-a118-e9157c9d1040_Java_3.jpg",
+      "RelativePath": "files/books/galleryImages/13b12719-0aa3-4aa9-91d5-c96e60f28712_4.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\00a028f6-1c14-41d7-a118-e9157c9d1040_Java_3.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\13b12719-0aa3-4aa9-91d5-c96e60f28712_4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\1db12630-3c3a-4959-82ad-b4d28cbc0e21_Java_1.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\23194214-9443-468c-8fbc-ccb417b7a204_3.webp",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/1db12630-3c3a-4959-82ad-b4d28cbc0e21_Java_1.jpg",
+      "RelativePath": "files/books/galleryImages/23194214-9443-468c-8fbc-ccb417b7a204_3.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\1db12630-3c3a-4959-82ad-b4d28cbc0e21_Java_1.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\23194214-9443-468c-8fbc-ccb417b7a204_3.webp"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\62bd58b6-46c2-4843-bc4f-233ea40b4197_gallery_1.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\260b0c41-ea4c-4701-9a87-234079097d4f_3.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/62bd58b6-46c2-4843-bc4f-233ea40b4197_gallery_1.jpg",
+      "RelativePath": "files/books/galleryImages/260b0c41-ea4c-4701-9a87-234079097d4f_3.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\62bd58b6-46c2-4843-bc4f-233ea40b4197_gallery_1.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\260b0c41-ea4c-4701-9a87-234079097d4f_3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\8d935c45-1266-4398-bbe2-50f9f945ea60_Java_3.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\2a12c3b8-9cf9-4d90-b8b7-720daf74adf8_2.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/8d935c45-1266-4398-bbe2-50f9f945ea60_Java_3.jpg",
+      "RelativePath": "files/books/galleryImages/2a12c3b8-9cf9-4d90-b8b7-720daf74adf8_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\8d935c45-1266-4398-bbe2-50f9f945ea60_Java_3.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\2a12c3b8-9cf9-4d90-b8b7-720daf74adf8_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\8f1a5b11-7490-454c-99fa-d373ef0a5cea_gallery_3.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\2c7328fe-1974-47af-a82f-ae25cf60e206_4.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/8f1a5b11-7490-454c-99fa-d373ef0a5cea_gallery_3.jpg",
+      "RelativePath": "files/books/galleryImages/2c7328fe-1974-47af-a82f-ae25cf60e206_4.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\8f1a5b11-7490-454c-99fa-d373ef0a5cea_gallery_3.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\2c7328fe-1974-47af-a82f-ae25cf60e206_4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\a05b8e79-76ee-41c5-98b2-7eab676a8b97_Java_2.jpeg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\3287bb6c-d76a-4e39-9baa-59ebdc8665f1_4.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/a05b8e79-76ee-41c5-98b2-7eab676a8b97_Java_2.jpeg",
+      "RelativePath": "files/books/galleryImages/3287bb6c-d76a-4e39-9baa-59ebdc8665f1_4.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\a05b8e79-76ee-41c5-98b2-7eab676a8b97_Java_2.jpeg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\3287bb6c-d76a-4e39-9baa-59ebdc8665f1_4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\a3bd6553-6b3e-4535-b716-b5d954ca8f03_Java_1.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/a3bd6553-6b3e-4535-b716-b5d954ca8f03_Java_1.jpg",
+      "RelativePath": "files/books/galleryImages/45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\a3bd6553-6b3e-4535-b716-b5d954ca8f03_Java_1.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\b5c179d1-6c19-4ae5-aae0-62ef785b0ff0_Java_2.jpeg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\470046f5-b2bc-4e17-834b-33624f300efd_3.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/b5c179d1-6c19-4ae5-aae0-62ef785b0ff0_Java_2.jpeg",
+      "RelativePath": "files/books/galleryImages/470046f5-b2bc-4e17-834b-33624f300efd_3.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\b5c179d1-6c19-4ae5-aae0-62ef785b0ff0_Java_2.jpeg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\470046f5-b2bc-4e17-834b-33624f300efd_3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\c0b5cdfc-13cc-4da5-acfa-faf8bef5bc2b_gallery_2.jpg",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\48d42e20-5ef0-43a6-9361-39e4083ffe04_3.jpeg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/books/galleryImages/c0b5cdfc-13cc-4da5-acfa-faf8bef5bc2b_gallery_2.jpg",
+      "RelativePath": "files/books/galleryImages/48d42e20-5ef0-43a6-9361-39e4083ffe04_3.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,13 +626,489 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\c0b5cdfc-13cc-4da5-acfa-faf8bef5bc2b_gallery_2.jpg"
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\48d42e20-5ef0-43a6-9361-39e4083ffe04_3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\login.png",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\535e6d66-6017-415a-8d1d-caf963b59f67_4.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/535e6d66-6017-415a-8d1d-caf963b59f67_4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\535e6d66-6017-415a-8d1d-caf963b59f67_4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\5588124d-da45-4136-b923-c328dda7e75d_2.webp",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/5588124d-da45-4136-b923-c328dda7e75d_2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\5588124d-da45-4136-b923-c328dda7e75d_2.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\585eb055-1a37-4e0f-9706-47c99c544370_3.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/585eb055-1a37-4e0f-9706-47c99c544370_3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\585eb055-1a37-4e0f-9706-47c99c544370_3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\6004d2f5-8fc5-4fbc-8c63-c82367c9cb31_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/6004d2f5-8fc5-4fbc-8c63-c82367c9cb31_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\6004d2f5-8fc5-4fbc-8c63-c82367c9cb31_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\6383ad9a-09eb-41dd-9e8a-02fbc7bd5ff9_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/6383ad9a-09eb-41dd-9e8a-02fbc7bd5ff9_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\6383ad9a-09eb-41dd-9e8a-02fbc7bd5ff9_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.webp",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/648c38b8-0ed4-4674-a9e5-c5d623063e95_1.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\7ec06f14-5f08-419f-9900-ebaf7db8ceb1_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/7ec06f14-5f08-419f-9900-ebaf7db8ceb1_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\7ec06f14-5f08-419f-9900-ebaf7db8ceb1_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\874c31e5-93d3-4c89-80e9-ac0fa9cdbd1a_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/874c31e5-93d3-4c89-80e9-ac0fa9cdbd1a_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\874c31e5-93d3-4c89-80e9-ac0fa9cdbd1a_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\8a053ea6-0e24-4347-a98c-5cc61f432c23_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/8a053ea6-0e24-4347-a98c-5cc61f432c23_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\8a053ea6-0e24-4347-a98c-5cc61f432c23_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\968128e9-574e-4318-a582-53964dcafcd6_3.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/968128e9-574e-4318-a582-53964dcafcd6_3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\968128e9-574e-4318-a582-53964dcafcd6_3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\9a1b90d9-6a61-45d9-b015-dff9af9f2051_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/9a1b90d9-6a61-45d9-b015-dff9af9f2051_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\9a1b90d9-6a61-45d9-b015-dff9af9f2051_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\9a2c740e-3bfa-463e-9e31-35294a695aba_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/9a2c740e-3bfa-463e-9e31-35294a695aba_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\9a2c740e-3bfa-463e-9e31-35294a695aba_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\a3d7d206-f541-4c90-8fb9-5320d572ef20_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/a3d7d206-f541-4c90-8fb9-5320d572ef20_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\a3d7d206-f541-4c90-8fb9-5320d572ef20_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\a8d62011-d696-4512-95cf-86a74be21fb3_1.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/a8d62011-d696-4512-95cf-86a74be21fb3_1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\a8d62011-d696-4512-95cf-86a74be21fb3_1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\aaacf5f4-0b5d-4739-a44d-890065632f28_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/aaacf5f4-0b5d-4739-a44d-890065632f28_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\aaacf5f4-0b5d-4739-a44d-890065632f28_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\aed2fbf7-5c53-41ef-8c65-7c0bb0210cd1_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/aed2fbf7-5c53-41ef-8c65-7c0bb0210cd1_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\aed2fbf7-5c53-41ef-8c65-7c0bb0210cd1_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\af854ea4-84b7-4217-993b-49ac92492974_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/af854ea4-84b7-4217-993b-49ac92492974_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\af854ea4-84b7-4217-993b-49ac92492974_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\b147163d-b9e6-4e5d-bc26-6f347300f547_3.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/b147163d-b9e6-4e5d-bc26-6f347300f547_3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\b147163d-b9e6-4e5d-bc26-6f347300f547_3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\b84f7268-4306-4657-a274-fada7b2a39ce_3.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/b84f7268-4306-4657-a274-fada7b2a39ce_3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\b84f7268-4306-4657-a274-fada7b2a39ce_3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\c04c92d7-e7cc-4a1e-bd1f-14db83cc9520_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/c04c92d7-e7cc-4a1e-bd1f-14db83cc9520_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\c04c92d7-e7cc-4a1e-bd1f-14db83cc9520_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\c522b2ce-4088-461f-8607-a495e658ac9a_4.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/c522b2ce-4088-461f-8607-a495e658ac9a_4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\c522b2ce-4088-461f-8607-a495e658ac9a_4.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4edc_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/ce0f7196-f93d-4de6-85e7-f1ed076b4edc_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4edc_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\edbe5e93-1536-48ca-8b44-846fd4b490ab_2.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/edbe5e93-1536-48ca-8b44-846fd4b490ab_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\edbe5e93-1536-48ca-8b44-846fd4b490ab_2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\f2954d2c-94e0-4b0a-adce-058ed70d5b32_1.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/f2954d2c-94e0-4b0a-adce-058ed70d5b32_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\f2954d2c-94e0-4b0a-adce-058ed70d5b32_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\f4a37fb6-1ecd-41c1-92f6-c8ffebe0807d_2.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/f4a37fb6-1ecd-41c1-92f6-c8ffebe0807d_2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\f4a37fb6-1ecd-41c1-92f6-c8ffebe0807d_2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\f67d6ca1-bf6e-453d-9ae8-1b4a992b9fcc_3.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/f67d6ca1-bf6e-453d-9ae8-1b4a992b9fcc_3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\f67d6ca1-bf6e-453d-9ae8-1b4a992b9fcc_3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\f9015d77-3237-45d5-944b-ac864e9b15b6_3.jpeg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "files/books/galleryImages/f9015d77-3237-45d5-944b-ac864e9b15b6_3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\f9015d77-3237-45d5-944b-ac864e9b15b6_3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\login.png",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "files/login.png",
       "AssetKind": "All",
@@ -340,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\files\\login.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\files\\signup.png",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\signup.png",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "files/signup.png",
       "AssetKind": "All",
@@ -357,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\files\\signup.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\core.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\core.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/core.js",
       "AssetKind": "All",
@@ -374,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\core.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.js",
       "AssetKind": "All",
@@ -391,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -408,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -425,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -442,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -459,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery/jquery.slim.min.map",
       "AssetKind": "All",
@@ -476,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js",
       "AssetKind": "All",
@@ -493,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js",
       "AssetKind": "All",
@@ -510,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/additional-methods.js",
       "AssetKind": "All",
@@ -527,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/additional-methods.min.js",
       "AssetKind": "All",
@@ -544,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/jquery.validate.js",
       "AssetKind": "All",
@@ -561,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/jquery.validate.min.js",
       "AssetKind": "All",
@@ -578,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/jquery-validation-sri.json",
       "AssetKind": "All",
@@ -595,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ar.js",
       "AssetKind": "All",
@@ -612,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ar.min.js",
       "AssetKind": "All",
@@ -629,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_az.js",
       "AssetKind": "All",
@@ -646,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_az.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_az.min.js",
       "AssetKind": "All",
@@ -663,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_bg.js",
       "AssetKind": "All",
@@ -680,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_bg.min.js",
       "AssetKind": "All",
@@ -697,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_bn_BD.js",
       "AssetKind": "All",
@@ -714,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_bn_BD.min.js",
       "AssetKind": "All",
@@ -731,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ca.js",
       "AssetKind": "All",
@@ -748,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ca.min.js",
       "AssetKind": "All",
@@ -765,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_cs.js",
       "AssetKind": "All",
@@ -782,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_cs.min.js",
       "AssetKind": "All",
@@ -799,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_da.js",
       "AssetKind": "All",
@@ -816,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_da.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_da.min.js",
       "AssetKind": "All",
@@ -833,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_de.js",
       "AssetKind": "All",
@@ -850,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_de.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_de.min.js",
       "AssetKind": "All",
@@ -867,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_el.js",
       "AssetKind": "All",
@@ -884,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_el.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_el.min.js",
       "AssetKind": "All",
@@ -901,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es.js",
       "AssetKind": "All",
@@ -918,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es.min.js",
       "AssetKind": "All",
@@ -935,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es_AR.js",
       "AssetKind": "All",
@@ -952,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es_AR.min.js",
       "AssetKind": "All",
@@ -969,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es_PE.js",
       "AssetKind": "All",
@@ -986,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_es_PE.min.js",
       "AssetKind": "All",
@@ -1003,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_et.js",
       "AssetKind": "All",
@@ -1020,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_et.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_et.min.js",
       "AssetKind": "All",
@@ -1037,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_eu.js",
       "AssetKind": "All",
@@ -1054,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_eu.min.js",
       "AssetKind": "All",
@@ -1071,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fa.js",
       "AssetKind": "All",
@@ -1088,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fa.min.js",
       "AssetKind": "All",
@@ -1105,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fi.js",
       "AssetKind": "All",
@@ -1122,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fi.min.js",
       "AssetKind": "All",
@@ -1139,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fr.js",
       "AssetKind": "All",
@@ -1156,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_fr.min.js",
       "AssetKind": "All",
@@ -1173,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ge.js",
       "AssetKind": "All",
@@ -1190,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ge.min.js",
       "AssetKind": "All",
@@ -1207,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_gl.js",
       "AssetKind": "All",
@@ -1224,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_gl.min.js",
       "AssetKind": "All",
@@ -1241,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_he.js",
       "AssetKind": "All",
@@ -1258,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_he.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_he.min.js",
       "AssetKind": "All",
@@ -1275,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hr.js",
       "AssetKind": "All",
@@ -1292,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hr.min.js",
       "AssetKind": "All",
@@ -1309,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hu.js",
       "AssetKind": "All",
@@ -1326,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hu.min.js",
       "AssetKind": "All",
@@ -1343,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hy_AM.js",
       "AssetKind": "All",
@@ -1360,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_hy_AM.min.js",
       "AssetKind": "All",
@@ -1377,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_id.js",
       "AssetKind": "All",
@@ -1394,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_id.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_id.min.js",
       "AssetKind": "All",
@@ -1411,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_is.js",
       "AssetKind": "All",
@@ -1428,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_is.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_is.min.js",
       "AssetKind": "All",
@@ -1445,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_it.js",
       "AssetKind": "All",
@@ -1462,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_it.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_it.min.js",
       "AssetKind": "All",
@@ -1479,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ja.js",
       "AssetKind": "All",
@@ -1496,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ja.min.js",
       "AssetKind": "All",
@@ -1513,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ka.js",
       "AssetKind": "All",
@@ -1530,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ka.min.js",
       "AssetKind": "All",
@@ -1547,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_kk.js",
       "AssetKind": "All",
@@ -1564,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_kk.min.js",
       "AssetKind": "All",
@@ -1581,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ko.js",
       "AssetKind": "All",
@@ -1598,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ko.min.js",
       "AssetKind": "All",
@@ -1615,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_lt.js",
       "AssetKind": "All",
@@ -1632,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_lt.min.js",
       "AssetKind": "All",
@@ -1649,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_lv.js",
       "AssetKind": "All",
@@ -1666,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_lv.min.js",
       "AssetKind": "All",
@@ -1683,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_mk.js",
       "AssetKind": "All",
@@ -1700,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_mk.min.js",
       "AssetKind": "All",
@@ -1717,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_my.js",
       "AssetKind": "All",
@@ -1734,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_my.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_my.min.js",
       "AssetKind": "All",
@@ -1751,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_nl.js",
       "AssetKind": "All",
@@ -1768,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_nl.min.js",
       "AssetKind": "All",
@@ -1785,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_no.js",
       "AssetKind": "All",
@@ -1802,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_no.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_no.min.js",
       "AssetKind": "All",
@@ -1819,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pl.js",
       "AssetKind": "All",
@@ -1836,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pl.min.js",
       "AssetKind": "All",
@@ -1853,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_BR.js",
       "AssetKind": "All",
@@ -1870,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_BR.min.js",
       "AssetKind": "All",
@@ -1887,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_PT.js",
       "AssetKind": "All",
@@ -1904,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_pt_PT.min.js",
       "AssetKind": "All",
@@ -1921,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ro.js",
       "AssetKind": "All",
@@ -1938,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ro.min.js",
       "AssetKind": "All",
@@ -1955,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ru.js",
       "AssetKind": "All",
@@ -1972,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ru.min.js",
       "AssetKind": "All",
@@ -1989,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sd.js",
       "AssetKind": "All",
@@ -2006,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sd.min.js",
       "AssetKind": "All",
@@ -2023,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_si.js",
       "AssetKind": "All",
@@ -2040,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_si.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_si.min.js",
       "AssetKind": "All",
@@ -2057,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sk.js",
       "AssetKind": "All",
@@ -2074,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sk.min.js",
       "AssetKind": "All",
@@ -2091,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sl.js",
       "AssetKind": "All",
@@ -2108,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sl.min.js",
       "AssetKind": "All",
@@ -2125,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sr.js",
       "AssetKind": "All",
@@ -2142,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sr.min.js",
       "AssetKind": "All",
@@ -2159,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sr_lat.js",
       "AssetKind": "All",
@@ -2176,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sr_lat.min.js",
       "AssetKind": "All",
@@ -2193,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sv.js",
       "AssetKind": "All",
@@ -2210,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_sv.min.js",
       "AssetKind": "All",
@@ -2227,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_th.js",
       "AssetKind": "All",
@@ -2244,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_th.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_th.min.js",
       "AssetKind": "All",
@@ -2261,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_tj.js",
       "AssetKind": "All",
@@ -2278,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_tj.min.js",
       "AssetKind": "All",
@@ -2295,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_tr.js",
       "AssetKind": "All",
@@ -2312,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_tr.min.js",
       "AssetKind": "All",
@@ -2329,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_uk.js",
       "AssetKind": "All",
@@ -2346,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_uk.min.js",
       "AssetKind": "All",
@@ -2363,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ur.js",
       "AssetKind": "All",
@@ -2380,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_ur.min.js",
       "AssetKind": "All",
@@ -2397,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_vi.js",
       "AssetKind": "All",
@@ -2414,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_vi.min.js",
       "AssetKind": "All",
@@ -2431,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_zh.js",
       "AssetKind": "All",
@@ -2448,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_zh.min.js",
       "AssetKind": "All",
@@ -2465,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_zh_TW.js",
       "AssetKind": "All",
@@ -2482,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/messages_zh_TW.min.js",
       "AssetKind": "All",
@@ -2499,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_de.js",
       "AssetKind": "All",
@@ -2516,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_de.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_de.min.js",
       "AssetKind": "All",
@@ -2533,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_es_CL.js",
       "AssetKind": "All",
@@ -2550,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_es_CL.min.js",
       "AssetKind": "All",
@@ -2567,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_fi.js",
       "AssetKind": "All",
@@ -2584,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_fi.min.js",
       "AssetKind": "All",
@@ -2601,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_it.js",
       "AssetKind": "All",
@@ -2618,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_it.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_it.min.js",
       "AssetKind": "All",
@@ -2635,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_nl.js",
       "AssetKind": "All",
@@ -2652,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_nl.min.js",
       "AssetKind": "All",
@@ -2669,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_pt.js",
       "AssetKind": "All",
@@ -2686,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validate/localization/methods_pt.min.js",
       "AssetKind": "All",
@@ -2703,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2720,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2737,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -2754,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2771,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2788,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2805,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2822,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2839,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2856,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2873,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2890,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2907,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2924,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2941,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2958,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2975,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2992,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3009,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -3026,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3043,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3060,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
       "RelativePath": "lib/twitter-bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",

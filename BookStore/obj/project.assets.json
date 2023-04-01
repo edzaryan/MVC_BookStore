@@ -10892,11 +10892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\BookStore\\BookStore\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
