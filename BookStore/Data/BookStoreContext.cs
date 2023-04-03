@@ -20,19 +20,21 @@ namespace BookStore.Data
 
         public DbSet<Language> Languages { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            SeedBook(modelBuilder);
-            SeedBookGallery(modelBuilder);
-            SeedLanguage(modelBuilder);
-            SeedUsers(modelBuilder);
+            SeedBook(builder);
+            SeedBookGallery(builder);
+            SeedLanguage(builder);
+            SeedUsers(builder);
+            SeedRoles(builder);
+            SeedUserRoles(builder);
 
-            base.OnModelCreating(modelBuilder);
+            base.OnModelCreating(builder);
         }
 
-        private void SeedBook(ModelBuilder modelBuilder)
+        private void SeedBook(ModelBuilder builder)
         {
-            modelBuilder
+            builder
                 .Entity<Book>()
                     .HasData(new()
                     {
@@ -166,9 +168,9 @@ namespace BookStore.Data
                     });
         }
 
-        private void SeedBookGallery(ModelBuilder modelBuilder)
+        private void SeedBookGallery(ModelBuilder builder)
         {
-            modelBuilder
+            builder
                 .Entity<BookGallery>()
                 .HasData(
                     // C#
@@ -472,9 +474,9 @@ namespace BookStore.Data
                     });
         }
     
-        private void SeedLanguage(ModelBuilder modelBuilder)
+        private void SeedLanguage(ModelBuilder builder)
         {
-            modelBuilder
+            builder
                 .Entity<Language>()
                 .HasData(new()
                     {
@@ -493,7 +495,7 @@ namespace BookStore.Data
                     });
         }
 
-        private void SeedUsers(ModelBuilder modelBuilder)
+        private void SeedUsers(ModelBuilder builder)
         {
             var user = new ApplicationUser()
             {
@@ -511,9 +513,41 @@ namespace BookStore.Data
             var ph = new PasswordHasher<ApplicationUser>();
             user.PasswordHash = ph.HashPassword(user, "1234");
 
-            modelBuilder
+            builder
                 .Entity<ApplicationUser>()
                 .HasData(user);
+        }
+
+        private void SeedRoles(ModelBuilder builder)
+        {
+            builder
+                .Entity<IdentityRole>()
+                .HasData(
+                    new { 
+                        Id = "bc6f72c0-66aa-4ec9-adb3-fba947bd0014",
+                        Name = "Admin",
+                        ConcurrencyStamp = "1",
+                        NormalizedName = "ADMIN"
+                    },
+                    new
+                    {
+                        Id = "ff6f72c0-66aa-4ec9-adb3-fba947bd0014",
+                        Name = "User",
+                        ConcurrencyStamp = "2",
+                        NormalizedName = "USER"
+                    }
+                );
+        }
+
+        private void SeedUserRoles(ModelBuilder builder)
+        {
+            builder.Entity<IdentityUserRole<string>>().HasData(
+                new 
+                { 
+                    RoleId = "bc6f72c0-66aa-4ec9-adb3-fba947bd0014",
+                    UserId = "c3bdd301-35d1-4114-b5e4-78d509b5607c"
+                }
+            );
         }
     }
 }
