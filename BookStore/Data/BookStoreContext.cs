@@ -1,6 +1,8 @@
 ﻿using BookStore.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Emit;
 
 namespace BookStore.Data
 {
@@ -20,11 +22,19 @@ namespace BookStore.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            SeedBook(modelBuilder);
+            SeedBookGallery(modelBuilder);
+            SeedLanguage(modelBuilder);
+            SeedUsers(modelBuilder);
+
+            base.OnModelCreating(modelBuilder);
+        }
+
+        private void SeedBook(ModelBuilder modelBuilder)
+        {
             modelBuilder
                 .Entity<Book>()
-                .HasData(new Book[]
-                {
-                    new()
+                    .HasData(new()
                     {
                         Id = 1,
                         Title = "Head First C#",
@@ -153,13 +163,14 @@ namespace BookStore.Data
                         CreatedOn = DateTime.Now,
                         UpdatedOn = DateTime.Now,
                         BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf"
-                    },
-                });
+                    });
+        }
 
+        private void SeedBookGallery(ModelBuilder modelBuilder)
+        {
             modelBuilder
                 .Entity<BookGallery>()
-                .HasData(new BookGallery[]
-                {
+                .HasData(
                     // C#
                     new()
                     {
@@ -458,14 +469,14 @@ namespace BookStore.Data
                         Name = "4.jpeg",
                         URL = "\\files\\books\\galleryImages\\23194214-9443-468c-8fbc-ccb417b7a204_3.webp",
                         BookId = 10,
-                    },
-                });
-
+                    });
+        }
+    
+        private void SeedLanguage(ModelBuilder modelBuilder)
+        {
             modelBuilder
                 .Entity<Language>()
-                .HasData(new Language[]
-                {
-                    new()
+                .HasData(new()
                     {
                         Id = 1,
                         Name = "English"
@@ -479,10 +490,30 @@ namespace BookStore.Data
                     {
                         Id = 3,
                         Name = "Russian"
-                    },
-                });
+                    });
+        }
 
-            base.OnModelCreating(modelBuilder);
+        private void SeedUsers(ModelBuilder modelBuilder)
+        {
+            var user = new ApplicationUser()
+            {
+                Id = "c3bdd301-35d1-4114-b5e4-78d509b5607c",
+                FirstName = "Edgar",
+                LastName = "Yeghiazaryan",
+                UserName = "edzaryan@gmail.com",
+                NormalizedUserName = "EDZARYAN@GMAIL.COM",
+                Email = "edzaryan@gmail.com",
+                NormalizedEmail = "EDZARYAN@GMAIL.COM",
+                LockoutEnabled = true,
+                EmailConfirmed = true,
+            };
+
+            var ph = new PasswordHasher<ApplicationUser>();
+            user.PasswordHash = ph.HashPassword(user, "1234");
+
+            modelBuilder
+                .Entity<ApplicationUser>()
+                .HasData(user);
         }
     }
 }

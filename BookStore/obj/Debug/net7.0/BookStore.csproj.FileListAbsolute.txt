@@ -1694,3 +1694,7 @@ C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\obj\Debug\net7.0\refint\B
 C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\obj\Debug\net7.0\BookStore.pdb
 C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\obj\Debug\net7.0\BookStore.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\obj\Debug\net7.0\ref\BookStore.dll
+C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\OneDrive\Desktop\MVC_BookStore\BookStore\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
