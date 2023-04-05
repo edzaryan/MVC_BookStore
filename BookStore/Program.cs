@@ -1,3 +1,4 @@
+using BookStore;
 using BookStore.Data;
 using BookStore.Helpers;
 using BookStore.Models;
@@ -10,7 +11,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 string db_connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<BookStoreContext>(options => options.UseSqlServer(db_connection));
+builder.Services.AddDbContext<BookStoreContext>(options =>
+    options.UseSqlServer(db_connection, x => x.MigrationsAssembly("BookStore")));
+
+
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IBookRepository, BookRepository>();
@@ -71,5 +75,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MigrateDatabase();
 
 app.Run();
