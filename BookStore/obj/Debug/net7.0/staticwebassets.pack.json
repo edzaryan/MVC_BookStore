@@ -17,50 +17,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\01b97c2c-7062-478e-b0e9-8b117cc10fbe_Beginning_Git_and_GitHub_(2020).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\01b97c2c-7062-478e-b0e9-8b117cc10fbe_Beginning_Git_and_GitHub_(2020).pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\1557c693-f85a-4d23-bfeb-d73933b698c8_Learn_PHP_8_2nd_Edition_(2020).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\1557c693-f85a-4d23-bfeb-d73933b698c8_Learn_PHP_8_2nd_Edition_(2020).pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\29eac4b2-b4bb-495c-b3c4-f5c01768e81f_11.pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\29eac4b2-b4bb-495c-b3c4-f5c01768e81f_11.pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\59b685ea-9a6a-4bf5-be00-35d2e884f6ed_Head_First_Java_Second_Edition.pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\59b685ea-9a6a-4bf5-be00-35d2e884f6ed_Head_First_Java_Second_Edition.pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\5c399598-3a58-4efd-b67c-a4f55303ffcf_Paris_Buttfield-Addison_Jon_Manning_-_Head_First_Swift_2022.pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\6dbbb0b0-59ec-4820-9422-e4df9a3241c8_Scala for the Impatient, 2nd Edition.pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\6dbbb0b0-59ec-4820-9422-e4df9a3241c8_Scala for the Impatient, 2nd Edition.pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\7c64fba0-1b7a-46bc-9403-a759bcbf23ea_Beginning_Git_and_GitHub_(2020).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\7c64fba0-1b7a-46bc-9403-a759bcbf23ea_Beginning_Git_and_GitHub_(2020).pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\a8a0c944-d076-436d-8980-e8d228482a47_Python_All-In-One_for_Dummies.pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\a8a0c944-d076-436d-8980-e8d228482a47_Python_All-In-One_for_Dummies.pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\bcd7faf8-e2c0-4f64-895a-c26c00acdd14_Kotlin_in_Action_(2017).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\bcd7faf8-e2c0-4f64-895a-c26c00acdd14_Kotlin_in_Action_(2017).pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(2020).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(2020).pdf"
-    },
-    {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(20aa).pdf",
-      "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\c0cecdce-f7db-47f6-8c05-e6cba73dc27b_Beginning_Git_and_GitHub_(20aa).pdf"
-    },
-    {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
       "PackagePath": "staticwebassets\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf"
     },
@@ -101,8 +57,28 @@
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\359ee713-f716-488c-866d-d05c57bafc1b_1.jpg"
     },
     {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\4ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\4ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\5ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\5ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.jpg",
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\6ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\6ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\77fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\77fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\7ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\7ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png",
@@ -117,12 +93,32 @@
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\87b8a2c5-6f10-4443-9eb1-591e15f2b348_1.jpg"
     },
     {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\8ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\8ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\99fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\99fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\9ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\9ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\NotFound.png",
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\NotFound.png"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg",
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd079wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd079wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg",
@@ -133,8 +129,296 @@
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbb_1.jpg"
     },
     {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwcvbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwcvbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd088wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd088wwwcbbdd.jpg"
+    },
+    {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg",
       "PackagePath": "staticwebassets\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa01-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa01-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa02-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa02-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa03-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa03-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa04-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa04-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa05-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa05-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa06-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa06-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa07-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa07-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa08-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa08-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa09-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa09-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa10-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa10-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa11-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa11-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa12-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa12-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-aa13-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-aa13-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b614-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b614-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b615-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b615-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b616-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b616-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b617-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b617-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b618-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b618-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b619-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b619-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b620-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b620-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b621-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b621-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b622-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b622-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b623-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b623-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b624-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b624-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w01c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w01c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w02c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w02c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w03c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w03c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w04c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w04c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w05c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w05c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w06c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w06c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w07c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w07c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w08c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w08c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w09c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w09c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w10c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w10c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w11c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w11c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w12c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w12c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w13c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w13c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w14c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w14c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w15c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w15c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w16c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w16c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w17c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w17c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w18c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w18c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w19c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w19c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w20c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w20c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w21c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w21c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w22c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w22c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w23c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w23c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w24c11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w24c11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1110.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1111.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1112.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1112.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1113.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1114.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1115.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1115.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1116.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1117.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1118.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1118.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1119.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b3.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b4.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b5.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b6.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b7.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11d1.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1a12.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1a12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+      "PackagePath": "staticwebassets\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png",

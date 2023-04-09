@@ -23,6 +23,8 @@ builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IEmailService, EmailService>();
 
+builder.Services.AddSingleton<IBookStoreDataSeedService, BookStoreDataSeedService>();
+
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<BookStoreContext>()
     .AddDefaultTokenProviders();

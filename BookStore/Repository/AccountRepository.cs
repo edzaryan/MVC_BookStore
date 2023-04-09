@@ -104,6 +104,7 @@ namespace BookStore.Repository
         private async Task SendConfirmationEmail(ApplicationUser user, string token)
         {
             string appDomain = _configuration.GetSection("Application:AppDomain").Value;
+
             string confirmationLink = _configuration.GetSection("Application:EmailConfirmation").Value;
 
             UserEmailOptions options = new()

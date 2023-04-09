@@ -20,11 +20,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="BookStoreSeedData.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="wwwroot\files\books\galleryImages\" />
     <Folder Include="wwwroot\files\books\bookPdfFiles\" />
     <Folder Include="wwwroot\js\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="BookStoreSeedData.json" />
   </ItemGroup>
 
   <ItemGroup>

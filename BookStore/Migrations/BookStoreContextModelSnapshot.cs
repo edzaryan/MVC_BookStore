@@ -72,210 +72,1276 @@ namespace BookStore.Migrations
                         new
                         {
                             Id = 1,
-                            Author = "Liam Moore",
+                            Author = "Emily Perez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1041),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3121),
                             Description = "Head First C# is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Head First C#",
-                            TotalPage = 681,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1063)
+                            TotalPage = 703,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3144)
                         },
                         new
                         {
                             Id = 2,
-                            Author = "Mason Gonzalez",
+                            Author = "Madison Thomas",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1068),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3152),
                             Description = "The C++ Programming Language is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "The C++ Programming Language",
-                            TotalPage = 552,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1068)
+                            TotalPage = 766,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3152)
                         },
                         new
                         {
                             Id = 3,
-                            Author = "Ava Taylor",
+                            Author = "Alexander Garcia",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1070),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3156),
                             Description = "Beginning Git and GitHub is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Beginning Git and GitHub",
-                            TotalPage = 721,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1070)
+                            TotalPage = 228,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3156)
                         },
                         new
                         {
                             Id = 4,
-                            Author = "Mariot Lee",
+                            Author = "Ethan Taylor",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1111),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3161),
                             Description = "JavaScript for Web Developers is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "JavaScript for Web Developers",
-                            TotalPage = 220,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1112)
+                            TotalPage = 229,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3161)
                         },
                         new
                         {
                             Id = 5,
-                            Author = "Mariot Garcia",
+                            Author = "Mac Hernandez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\359ee713-f716-488c-866d-d05c57bafc1b_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1113),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3221),
                             Description = "Python (All-In-One) For Dummies is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Python (All-In-One) For Dummies",
-                            TotalPage = 723,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1114)
+                            TotalPage = 319,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3222)
                         },
                         new
                         {
                             Id = 6,
-                            Author = "Olivia Miller",
+                            Author = "Alexander Lopez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\04734f18-dc2e-4ed5-bf47-5be69608dc9a_1.jpeg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1122),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3232),
                             Description = "Head First Java is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Head First Java",
-                            TotalPage = 281,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1122)
+                            TotalPage = 579,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3233)
                         },
                         new
                         {
                             Id = 7,
-                            Author = "Elijah Smith",
+                            Author = "Khai Perez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\01fd088e-db1a-4e60-b6ef-ae96c2afddab_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1124),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3235),
                             Description = "Scala for the Impatient (Second Edition) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Scala for the Impatient (Second Edition)",
-                            TotalPage = 518,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1124)
+                            TotalPage = 452,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3235)
                         },
                         new
                         {
                             Id = 8,
-                            Author = "Michael Harris",
+                            Author = "Evander Brando",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\87b8a2c5-6f10-4443-9eb1-591e15f2b308_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1125),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3237),
                             Description = "Learn PHP 8 is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Learn PHP 8",
-                            TotalPage = 208,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1126)
+                            TotalPage = 536,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3237)
                         },
                         new
                         {
                             Id = 9,
-                            Author = "Emma Thompson",
+                            Author = "Koen Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1150),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3239),
                             Description = "Kotlin In Action is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Kotlin In Action",
-                            TotalPage = 111,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1150)
+                            TotalPage = 327,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3240)
                         },
                         new
                         {
                             Id = 10,
-                            Author = "Kathy Harris",
+                            Author = "Mia Thomas",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1153),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3266),
                             Description = "Head First Swift is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Head First Swift",
-                            TotalPage = 662,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1153)
+                            TotalPage = 404,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3267)
                         },
                         new
                         {
                             Id = 11,
-                            Author = "William Hernandez",
+                            Author = "Khai Ford",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3bb.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1155),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3269),
                             Description = "Emotional Intelligence is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Emotional Intelligence",
-                            TotalPage = 151,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1155)
+                            TotalPage = 170,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3270)
                         },
                         new
                         {
                             Id = 12,
-                            Author = "Michael Jackson",
+                            Author = "Alexander Rodriguez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f555.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1157),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3272),
                             Description = "Dark Psychology is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Dark Psychology",
-                            TotalPage = 547,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1157)
+                            TotalPage = 279,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3272)
                         },
                         new
                         {
                             Id = 13,
-                            Author = "Isabella Martinez",
+                            Author = "Madison Brooks",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f333.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1159),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3275),
                             Description = "Emotional Intelligence (Why It Can Matter More Than IQ) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Emotional Intelligence (Why It Can Matter More Than IQ)",
-                            TotalPage = 318,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1159)
+                            TotalPage = 145,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3275)
                         },
                         new
                         {
                             Id = 14,
-                            Author = "Matt Miller",
+                            Author = "James Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-hho4f4f706f3bb.webp",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1179),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3277),
                             Description = "The Emotional Intelligence workbook is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The Emotional Intelligence workbook",
-                            TotalPage = 579,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1179)
+                            TotalPage = 419,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3278)
                         },
                         new
                         {
                             Id = 15,
-                            Author = "Mia Rodriguez",
+                            Author = "Liam Brady",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-7bf4f3f706f3fb.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1181),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3308),
                             Description = "Emotional Intelligence (for leadership) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Emotional Intelligence (for leadership)",
-                            TotalPage = 667,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1181)
+                            TotalPage = 589,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3308)
                         },
                         new
                         {
                             Id = 16,
-                            Author = "James Martinez",
+                            Author = "Sophia Davis",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbb_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1183),
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3310),
                             Description = "Take What You Need is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Take What You Need",
-                            TotalPage = 440,
-                            UpdatedOn = new DateTime(2023, 4, 7, 11, 44, 14, 873, DateTimeKind.Local).AddTicks(1183)
+                            TotalPage = 517,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3310)
+                        },
+                        new
+                        {
+                            Id = 17,
+                            Author = "Madison Lee",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3312),
+                            Description = "A Reason For Marriage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "A Reason For Marriage",
+                            TotalPage = 191,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3313)
+                        },
+                        new
+                        {
+                            Id = 18,
+                            Author = "Charlotte Taylor",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3316),
+                            Description = "Stormy Surrender is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Stormy Surrender",
+                            TotalPage = 587,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3316)
+                        },
+                        new
+                        {
+                            Id = 19,
+                            Author = "Elio Moore",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd088wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3319),
+                            Description = "In Graywolf's Hands (The Bachelors Of Blair Memorial) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "In Graywolf's Hands (The Bachelors Of Blair Memorial)",
+                            TotalPage = 543,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3319)
+                        },
+                        new
+                        {
+                            Id = 20,
+                            Author = "Elijah Brooks",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwcvbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3343),
+                            Description = "Maximum Ride Forever is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Maximum Ride Forever",
+                            TotalPage = 137,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3344)
+                        },
+                        new
+                        {
+                            Id = 21,
+                            Author = "Kylian Rodriguez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd079wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3345),
+                            Description = "The Lost Wife is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The Lost Wife",
+                            TotalPage = 281,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3346)
+                        },
+                        new
+                        {
+                            Id = 22,
+                            Author = "Elio Ford",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3347),
+                            Description = "The Forced Bride is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The Forced Bride",
+                            TotalPage = 498,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3348)
+                        },
+                        new
+                        {
+                            Id = 23,
+                            Author = "Isabella Ford",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3350),
+                            Description = "A Lady Betrayed is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "A Lady Betrayed",
+                            TotalPage = 491,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3350)
+                        },
+                        new
+                        {
+                            Id = 24,
+                            Author = "Alexander Lee",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\4ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3352),
+                            Description = "Winning the Highlander's Heart is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Winning the Highlander's Heart",
+                            TotalPage = 376,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3352)
+                        },
+                        new
+                        {
+                            Id = 25,
+                            Author = "Evander Ford",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\5ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3354),
+                            Description = "Alaska Skies is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Alaska Skies",
+                            TotalPage = 626,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3355)
+                        },
+                        new
+                        {
+                            Id = 26,
+                            Author = "Eliam Jones",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\6ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3420),
+                            Description = "Hungry for More is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Hungry for More",
+                            TotalPage = 257,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3420)
+                        },
+                        new
+                        {
+                            Id = 27,
+                            Author = "Sophia Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\7ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3422),
+                            Description = "Gem of a Girl is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Gem of a Girl",
+                            TotalPage = 401,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3423)
+                        },
+                        new
+                        {
+                            Id = 28,
+                            Author = "Camilo Denton",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\8ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3425),
+                            Description = "Surrender to the Fury is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Surrender to the Fury",
+                            TotalPage = 545,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3426)
+                        },
+                        new
+                        {
+                            Id = 29,
+                            Author = "Matt Brown",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\9ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3428),
+                            Description = "Leave Yesterday Behind is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Leave Yesterday Behind",
+                            TotalPage = 451,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3429)
+                        },
+                        new
+                        {
+                            Id = 30,
+                            Author = "Elio Carson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\99fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3430),
+                            Description = "The Lion's Bride is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Lion's Bride",
+                            TotalPage = 688,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3431)
+                        },
+                        new
+                        {
+                            Id = 31,
+                            Author = "Bridger Casey",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\77fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3458),
+                            Description = "Villa In The Sun is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Villa In The Sun",
+                            TotalPage = 419,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3458)
+                        },
+                        new
+                        {
+                            Id = 32,
+                            Author = "Onyx Smith",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3460),
+                            Description = "Lover's Touch is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Lover's Touch",
+                            TotalPage = 576,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3460)
+                        },
+                        new
+                        {
+                            Id = 33,
+                            Author = "Ozzy Harris",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1111.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3462),
+                            Description = "Never A Lady is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Never A Lady",
+                            TotalPage = 419,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3462)
+                        },
+                        new
+                        {
+                            Id = 34,
+                            Author = "Jiraiya Hernandez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1112.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3467),
+                            Description = "A Reason For Marriage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "A Reason For Marriage",
+                            TotalPage = 684,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3467)
+                        },
+                        new
+                        {
+                            Id = 35,
+                            Author = "Ethan Davis",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1113.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3469),
+                            Description = "The Siren is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Siren",
+                            TotalPage = 358,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3469)
+                        },
+                        new
+                        {
+                            Id = 36,
+                            Author = "Ozzy Lopez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1114.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3494),
+                            Description = "Twice Her Husband (Silhouette Special Edition) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Twice Her Husband (Silhouette Special Edition)",
+                            TotalPage = 590,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3495)
+                        },
+                        new
+                        {
+                            Id = 37,
+                            Author = "Abigail Brooks",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1115.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3496),
+                            Description = "The Blind - Date Bride (The Australians) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Blind - Date Bride (The Australians)",
+                            TotalPage = 237,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3497)
+                        },
+                        new
+                        {
+                            Id = 38,
+                            Author = "Mia Lopez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1116.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3498),
+                            Description = "Only Love is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Only Love",
+                            TotalPage = 300,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3499)
+                        },
+                        new
+                        {
+                            Id = 39,
+                            Author = "Mia Brooks",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1117.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3501),
+                            Description = "Christmas at Lilac Cottage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Christmas at Lilac Cottage",
+                            TotalPage = 164,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3501)
+                        },
+                        new
+                        {
+                            Id = 40,
+                            Author = "Koen Davis",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1118.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3503),
+                            Description = "Once Upon A Scandal (Once Upon Scandal) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Once Upon A Scandal (Once Upon Scandal)",
+                            TotalPage = 407,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3503)
+                        },
+                        new
+                        {
+                            Id = 41,
+                            Author = "Charlotte Brown",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1119.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3532),
+                            Description = "Wild Jasmine is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Wild Jasmine",
+                            TotalPage = 765,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3532)
+                        },
+                        new
+                        {
+                            Id = 42,
+                            Author = "Amiri Johnson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1110.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3534),
+                            Description = "Promise Of A Family is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Promise Of A Family",
+                            TotalPage = 105,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3534)
+                        },
+                        new
+                        {
+                            Id = 43,
+                            Author = "Emma Clark",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11d1.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3536),
+                            Description = "Happy Christmas Love Mills Boon Helen Bianchin Et Al is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Happy Christmas Love Mills Boon Helen Bianchin Et Al",
+                            TotalPage = 468,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3537)
+                        },
+                        new
+                        {
+                            Id = 44,
+                            Author = "Alexander Martinez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1a12.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3539),
+                            Description = "Sister to Meryl is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Sister to Meryl",
+                            TotalPage = 101,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3540)
+                        },
+                        new
+                        {
+                            Id = 45,
+                            Author = "Bjarne Brown",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3542),
+                            Description = "Stellar Attraction is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Stellar Attraction",
+                            TotalPage = 251,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3542)
+                        },
+                        new
+                        {
+                            Id = 46,
+                            Author = "John Brooks",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3566),
+                            Description = "The wife he couldn't forget / Seduced by the CEO is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The wife he couldn't forget / Seduced by the CEO",
+                            TotalPage = 463,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3567)
+                        },
+                        new
+                        {
+                            Id = 47,
+                            Author = "Ozzy Miller",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3569),
+                            Description = "Match For Mom is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Match For Mom",
+                            TotalPage = 238,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3569)
+                        },
+                        new
+                        {
+                            Id = 48,
+                            Author = "Andrew Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3571),
+                            Description = "Lucianna is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Lucianna",
+                            TotalPage = 394,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3571)
+                        },
+                        new
+                        {
+                            Id = 49,
+                            Author = "Ethan Brooks",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3573),
+                            Description = "Hidden mistress, public wife is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Hidden mistress, public wife",
+                            TotalPage = 469,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3573)
+                        },
+                        new
+                        {
+                            Id = 50,
+                            Author = "Kathy Thompson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa01-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3574),
+                            Description = "Dance of Death is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Dance of Death",
+                            TotalPage = 428,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3575)
+                        },
+                        new
+                        {
+                            Id = 51,
+                            Author = "Michael Cullen",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa02-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3598),
+                            Description = "Bears, bears, bears is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Bears, bears, bears",
+                            TotalPage = 325,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3599)
+                        },
+                        new
+                        {
+                            Id = 52,
+                            Author = "Alexander Jackson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa03-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3601),
+                            Description = "Mockingjay is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Mockingjay",
+                            TotalPage = 762,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3601)
+                        },
+                        new
+                        {
+                            Id = 53,
+                            Author = "Jiraiya Perez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa04-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3603),
+                            Description = "Larklight is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Larklight",
+                            TotalPage = 489,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3603)
+                        },
+                        new
+                        {
+                            Id = 54,
+                            Author = "Mariot Brando",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa05-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3605),
+                            Description = "Flat Stanley on ice is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Flat Stanley on ice",
+                            TotalPage = 386,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3605)
+                        },
+                        new
+                        {
+                            Id = 55,
+                            Author = "Zyair Brady",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa06-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3607),
+                            Description = "Taran Wanderer (The Chronicles of Prydain) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Taran Wanderer (The Chronicles of Prydain)",
+                            TotalPage = 561,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3607)
+                        },
+                        new
+                        {
+                            Id = 56,
+                            Author = "Olivia Jones",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa07-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3609),
+                            Description = "Big Nate is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Big Nate",
+                            TotalPage = 136,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3609)
+                        },
+                        new
+                        {
+                            Id = 57,
+                            Author = "Kylian Casey",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa08-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3633),
+                            Description = "In a Glass Grimmly is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "In a Glass Grimmly",
+                            TotalPage = 406,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3634)
+                        },
+                        new
+                        {
+                            Id = 58,
+                            Author = "Elijah Smith",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa09-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3636),
+                            Description = "Nate the Great Talks Turkey is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Nate the Great Talks Turkey",
+                            TotalPage = 636,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3636)
+                        },
+                        new
+                        {
+                            Id = 59,
+                            Author = "Elijah Lee",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa10-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3638),
+                            Description = "Thea Stilton And The Great Tulip Heist is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Thea Stilton And The Great Tulip Heist",
+                            TotalPage = 714,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3638)
+                        },
+                        new
+                        {
+                            Id = 60,
+                            Author = "Ava Duff",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa11-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3640),
+                            Description = "Harry Potter and the Philosopher's Stone is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Harry Potter and the Philosopher's Stone",
+                            TotalPage = 224,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3640)
+                        },
+                        new
+                        {
+                            Id = 61,
+                            Author = "Eliam Lopez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa12-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3642),
+                            Description = "The Book Thief is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The Book Thief",
+                            TotalPage = 318,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3642)
+                        },
+                        new
+                        {
+                            Id = 62,
+                            Author = "Matt Hernandez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa13-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3666),
+                            Description = "Cue for Treason is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Cue for Treason",
+                            TotalPage = 742,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3666)
+                        },
+                        new
+                        {
+                            Id = 63,
+                            Author = "Isabella Brady",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b614-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3668),
+                            Description = "The House of Hades is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The House of Hades",
+                            TotalPage = 263,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3668)
+                        },
+                        new
+                        {
+                            Id = 64,
+                            Author = "Khai Sanchez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b615-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3670),
+                            Description = "Dangerous pumpkins is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Dangerous pumpkins",
+                            TotalPage = 200,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3670)
+                        },
+                        new
+                        {
+                            Id = 65,
+                            Author = "Eliam White",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b616-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3672),
+                            Description = "Danger at the Landings is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Danger at the Landings",
+                            TotalPage = 562,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3672)
+                        },
+                        new
+                        {
+                            Id = 66,
+                            Author = "Jiraiya Denton",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b617-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3703),
+                            Description = "Battle of the Bots is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Battle of the Bots",
+                            TotalPage = 769,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3703)
+                        },
+                        new
+                        {
+                            Id = 67,
+                            Author = "Koen Lopez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b618-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3705),
+                            Description = "Prise d'otages à Disneyland is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Prise d'otages à Disneyland",
+                            TotalPage = 521,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3705)
+                        },
+                        new
+                        {
+                            Id = 68,
+                            Author = "Eliam Perez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b619-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3707),
+                            Description = "Games Magazine Presents the Kids' Giant Book of Games is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Games Magazine Presents the Kids' Giant Book of Games",
+                            TotalPage = 563,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3707)
+                        },
+                        new
+                        {
+                            Id = 69,
+                            Author = "Colter Martinez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b620-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3709),
+                            Description = "Lucy and the Wolf in Sheep's Clothing (A Young Lion Storybook) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Lucy and the Wolf in Sheep's Clothing (A Young Lion Storybook)",
+                            TotalPage = 609,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3710)
+                        },
+                        new
+                        {
+                            Id = 70,
+                            Author = "Bjarne Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b621-4cbe-9ee8-ddd111wwwc11b3.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3711),
+                            Description = "Atlantis quest is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Atlantis quest",
+                            TotalPage = 639,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3712)
+                        },
+                        new
+                        {
+                            Id = 71,
+                            Author = "Elijah Williams",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b622-4cbe-9ee8-ddd111wwwc11b4.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3714),
+                            Description = "The Way (Darby Creek Exceptional Titles) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Way (Darby Creek Exceptional Titles)",
+                            TotalPage = 174,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3714)
+                        },
+                        new
+                        {
+                            Id = 72,
+                            Author = "Ozzy Lee",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b623-4cbe-9ee8-ddd111wwwc11b5.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3750),
+                            Description = "The voice and the pendant is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The voice and the pendant",
+                            TotalPage = 383,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3750)
+                        },
+                        new
+                        {
+                            Id = 73,
+                            Author = "Loyal Thomas",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b624-4cbe-9ee8-ddd111wwwc11b6.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3752),
+                            Description = "Hattie Marshall and the dangerous fire is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Hattie Marshall and the dangerous fire",
+                            TotalPage = 511,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3752)
+                        },
+                        new
+                        {
+                            Id = 74,
+                            Author = "Olivia Gonzalez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111wwwc11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3754),
+                            Description = "Henry and the hand-me-downs is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Henry and the hand-me-downs",
+                            TotalPage = 313,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3754)
+                        },
+                        new
+                        {
+                            Id = 75,
+                            Author = "William Thomas",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w01c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3755),
+                            Description = "The eyes of darkness is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The eyes of darkness",
+                            TotalPage = 171,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3756)
+                        },
+                        new
+                        {
+                            Id = 76,
+                            Author = "Ozzy Cullen",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w02c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3757),
+                            Description = "IT is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "IT",
+                            TotalPage = 385,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3758)
+                        },
+                        new
+                        {
+                            Id = 77,
+                            Author = "Noah Cullen",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w03c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3783),
+                            Description = "The Shining is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Shining",
+                            TotalPage = 757,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3783)
+                        },
+                        new
+                        {
+                            Id = 78,
+                            Author = "Evander Rodriguez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w04c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3785),
+                            Description = "Cell is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Cell",
+                            TotalPage = 739,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3785)
+                        },
+                        new
+                        {
+                            Id = 79,
+                            Author = "Khai Anderson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w05c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3787),
+                            Description = "RED STORM RISING is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "RED STORM RISING",
+                            TotalPage = 409,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3787)
+                        },
+                        new
+                        {
+                            Id = 80,
+                            Author = "Evander Rodriguez",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w06c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3788),
+                            Description = "Insomnia is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Insomnia",
+                            TotalPage = 557,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3789)
+                        },
+                        new
+                        {
+                            Id = 81,
+                            Author = "Noah Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w07c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3790),
+                            Description = "Pet Sematary is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Pet Sematary",
+                            TotalPage = 242,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3791)
+                        },
+                        new
+                        {
+                            Id = 82,
+                            Author = "Madison Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w08c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3814),
+                            Description = "Black wind is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Black wind",
+                            TotalPage = 317,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3814)
+                        },
+                        new
+                        {
+                            Id = 83,
+                            Author = "Zyair Thomas",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w09c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3816),
+                            Description = "The Bachman Books is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The Bachman Books",
+                            TotalPage = 292,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3816)
+                        },
+                        new
+                        {
+                            Id = 84,
+                            Author = "Mac Jackson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w10c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3818),
+                            Description = "Just After Sunset is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Just After Sunset",
+                            TotalPage = 296,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3819)
+                        },
+                        new
+                        {
+                            Id = 85,
+                            Author = "Bridger Miller",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w11c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3820),
+                            Description = "Carrie is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Carrie",
+                            TotalPage = 594,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3821)
+                        },
+                        new
+                        {
+                            Id = 86,
+                            Author = "Mac Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w12c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3822),
+                            Description = "Under the Dome is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Under the Dome",
+                            TotalPage = 704,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3823)
+                        },
+                        new
+                        {
+                            Id = 87,
+                            Author = "Andrew Thomas",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w13c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3849),
+                            Description = "The bear and the dragon is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The bear and the dragon",
+                            TotalPage = 607,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3849)
+                        },
+                        new
+                        {
+                            Id = 88,
+                            Author = "Elio Miller",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w14c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3851),
+                            Description = "Dark Justice is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Dark Justice",
+                            TotalPage = 461,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3851)
+                        },
+                        new
+                        {
+                            Id = 89,
+                            Author = "Noah Johnson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w15c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3853),
+                            Description = "The good guy is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The good guy",
+                            TotalPage = 662,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3853)
+                        },
+                        new
+                        {
+                            Id = 90,
+                            Author = "Charlotte Casey",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w16c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3855),
+                            Description = "Executive Orders is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Executive Orders",
+                            TotalPage = 384,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3855)
+                        },
+                        new
+                        {
+                            Id = 91,
+                            Author = "William Anderson",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w17c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3857),
+                            Description = "Treasure is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Treasure",
+                            TotalPage = 433,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3857)
+                        },
+                        new
+                        {
+                            Id = 92,
+                            Author = "Elijah Brown",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w18c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3859),
+                            Description = "The Green Mile is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "The Green Mile",
+                            TotalPage = 295,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3859)
+                        },
+                        new
+                        {
+                            Id = 93,
+                            Author = "Andrew Cruz",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w19c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3884),
+                            Description = "Different Seasons is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Different Seasons",
+                            TotalPage = 157,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3884)
+                        },
+                        new
+                        {
+                            Id = 94,
+                            Author = "Amiri Miller",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w20c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3886),
+                            Description = "Debt of Honor is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Debt of Honor",
+                            TotalPage = 417,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3886)
+                        },
+                        new
+                        {
+                            Id = 95,
+                            Author = "Abigail Davis",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w21c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3888),
+                            Description = "Atlantis Found is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Atlantis Found",
+                            TotalPage = 736,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3888)
+                        },
+                        new
+                        {
+                            Id = 96,
+                            Author = "Gian Taylor",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w22c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3890),
+                            Description = "Wolves of the Calla is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "Wolves of the Calla",
+                            TotalPage = 756,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3890)
+                        },
+                        new
+                        {
+                            Id = 97,
+                            Author = "Mac Clark",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w23c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3892),
+                            Description = "Red rabbit is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 1,
+                            Title = "Red rabbit",
+                            TotalPage = 272,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3892)
+                        },
+                        new
+                        {
+                            Id = 98,
+                            Author = "Andrew Cullen",
+                            BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
+                            CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w24c11b7.jpg",
+                            CreatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3936),
+                            Description = "The Dark Tower is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
+                            LanguageId = 2,
+                            Title = "The Dark Tower",
+                            TotalPage = 679,
+                            UpdatedOn = new DateTime(2023, 4, 9, 8, 33, 40, 105, DateTimeKind.Local).AddTicks(3936)
                         });
                 });
 
@@ -752,6 +1818,2302 @@ namespace BookStore.Migrations
                             BookId = 16,
                             Name = "X.jpeg",
                             URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 65,
+                            BookId = 17,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 66,
+                            BookId = 17,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 67,
+                            BookId = 17,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 68,
+                            BookId = 17,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 69,
+                            BookId = 18,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 70,
+                            BookId = 18,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 71,
+                            BookId = 18,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 72,
+                            BookId = 18,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 73,
+                            BookId = 19,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd088wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 74,
+                            BookId = 19,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 75,
+                            BookId = 19,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 76,
+                            BookId = 19,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 77,
+                            BookId = 20,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwcvbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 78,
+                            BookId = 20,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 79,
+                            BookId = 20,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 80,
+                            BookId = 20,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 81,
+                            BookId = 21,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd079wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 82,
+                            BookId = 21,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 83,
+                            BookId = 21,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 84,
+                            BookId = 21,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 85,
+                            BookId = 22,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 86,
+                            BookId = 22,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 87,
+                            BookId = 22,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 88,
+                            BookId = 22,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 89,
+                            BookId = 23,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 90,
+                            BookId = 23,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 91,
+                            BookId = 23,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 92,
+                            BookId = 23,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 93,
+                            BookId = 24,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\4ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 94,
+                            BookId = 24,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 95,
+                            BookId = 24,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 96,
+                            BookId = 24,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 97,
+                            BookId = 25,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\5ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 98,
+                            BookId = 25,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 99,
+                            BookId = 25,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 100,
+                            BookId = 25,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 101,
+                            BookId = 26,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\6ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 102,
+                            BookId = 26,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 103,
+                            BookId = 26,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 104,
+                            BookId = 26,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 105,
+                            BookId = 27,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\7ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 106,
+                            BookId = 27,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 107,
+                            BookId = 27,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 108,
+                            BookId = 27,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 109,
+                            BookId = 28,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\8ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 110,
+                            BookId = 28,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 111,
+                            BookId = 28,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 112,
+                            BookId = 28,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 113,
+                            BookId = 29,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\9ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 114,
+                            BookId = 29,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 115,
+                            BookId = 29,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 116,
+                            BookId = 29,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 117,
+                            BookId = 30,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\99fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 118,
+                            BookId = 30,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 119,
+                            BookId = 30,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 120,
+                            BookId = 30,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 121,
+                            BookId = 31,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\77fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 122,
+                            BookId = 31,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 123,
+                            BookId = 31,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 124,
+                            BookId = 31,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 125,
+                            BookId = 32,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg"
+                        },
+                        new
+                        {
+                            Id = 126,
+                            BookId = 32,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 127,
+                            BookId = 32,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 128,
+                            BookId = 32,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 129,
+                            BookId = 33,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1111.jpg"
+                        },
+                        new
+                        {
+                            Id = 130,
+                            BookId = 33,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 131,
+                            BookId = 33,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 132,
+                            BookId = 33,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 133,
+                            BookId = 34,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1112.jpg"
+                        },
+                        new
+                        {
+                            Id = 134,
+                            BookId = 34,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 135,
+                            BookId = 34,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 136,
+                            BookId = 34,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 137,
+                            BookId = 35,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1113.jpg"
+                        },
+                        new
+                        {
+                            Id = 138,
+                            BookId = 35,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 139,
+                            BookId = 35,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 140,
+                            BookId = 35,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 141,
+                            BookId = 36,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1114.jpg"
+                        },
+                        new
+                        {
+                            Id = 142,
+                            BookId = 36,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 143,
+                            BookId = 36,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 144,
+                            BookId = 36,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 145,
+                            BookId = 37,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1115.jpg"
+                        },
+                        new
+                        {
+                            Id = 146,
+                            BookId = 37,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 147,
+                            BookId = 37,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 148,
+                            BookId = 37,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 149,
+                            BookId = 38,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1116.jpg"
+                        },
+                        new
+                        {
+                            Id = 150,
+                            BookId = 38,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 151,
+                            BookId = 38,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 152,
+                            BookId = 38,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 153,
+                            BookId = 39,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1117.jpg"
+                        },
+                        new
+                        {
+                            Id = 154,
+                            BookId = 39,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 155,
+                            BookId = 39,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 156,
+                            BookId = 39,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 157,
+                            BookId = 40,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1118.jpg"
+                        },
+                        new
+                        {
+                            Id = 158,
+                            BookId = 40,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 159,
+                            BookId = 40,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 160,
+                            BookId = 40,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 161,
+                            BookId = 41,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1119.jpg"
+                        },
+                        new
+                        {
+                            Id = 162,
+                            BookId = 41,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 163,
+                            BookId = 41,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 164,
+                            BookId = 41,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 165,
+                            BookId = 42,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1110.jpg"
+                        },
+                        new
+                        {
+                            Id = 166,
+                            BookId = 42,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 167,
+                            BookId = 42,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 168,
+                            BookId = 42,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 169,
+                            BookId = 43,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11d1.jpg"
+                        },
+                        new
+                        {
+                            Id = 170,
+                            BookId = 43,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 171,
+                            BookId = 43,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 172,
+                            BookId = 43,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 173,
+                            BookId = 44,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1a12.jpg"
+                        },
+                        new
+                        {
+                            Id = 174,
+                            BookId = 44,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 175,
+                            BookId = 44,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 176,
+                            BookId = 44,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 177,
+                            BookId = 45,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 178,
+                            BookId = 45,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 179,
+                            BookId = 45,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 180,
+                            BookId = 45,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 181,
+                            BookId = 46,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 182,
+                            BookId = 46,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 183,
+                            BookId = 46,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 184,
+                            BookId = 46,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 185,
+                            BookId = 47,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 186,
+                            BookId = 47,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 187,
+                            BookId = 47,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 188,
+                            BookId = 47,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 189,
+                            BookId = 48,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 190,
+                            BookId = 48,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 191,
+                            BookId = 48,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 192,
+                            BookId = 48,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 193,
+                            BookId = 49,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 194,
+                            BookId = 49,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 195,
+                            BookId = 49,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 196,
+                            BookId = 49,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 197,
+                            BookId = 50,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa01-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 198,
+                            BookId = 50,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 199,
+                            BookId = 50,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 200,
+                            BookId = 50,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 201,
+                            BookId = 51,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa02-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 202,
+                            BookId = 51,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 203,
+                            BookId = 51,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 204,
+                            BookId = 51,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 205,
+                            BookId = 52,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa03-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 206,
+                            BookId = 52,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 207,
+                            BookId = 52,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 208,
+                            BookId = 52,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 209,
+                            BookId = 53,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa04-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 210,
+                            BookId = 53,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 211,
+                            BookId = 53,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 212,
+                            BookId = 53,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 213,
+                            BookId = 54,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa05-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 214,
+                            BookId = 54,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 215,
+                            BookId = 54,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 216,
+                            BookId = 54,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 217,
+                            BookId = 55,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa06-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 218,
+                            BookId = 55,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 219,
+                            BookId = 55,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 220,
+                            BookId = 55,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 221,
+                            BookId = 56,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa07-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 222,
+                            BookId = 56,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 223,
+                            BookId = 56,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 224,
+                            BookId = 56,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 225,
+                            BookId = 57,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa08-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 226,
+                            BookId = 57,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 227,
+                            BookId = 57,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 228,
+                            BookId = 57,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 229,
+                            BookId = 58,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa09-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 230,
+                            BookId = 58,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 231,
+                            BookId = 58,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 232,
+                            BookId = 58,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 233,
+                            BookId = 59,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa10-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 234,
+                            BookId = 59,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 235,
+                            BookId = 59,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 236,
+                            BookId = 59,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 237,
+                            BookId = 60,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa11-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 238,
+                            BookId = 60,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 239,
+                            BookId = 60,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 240,
+                            BookId = 60,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 241,
+                            BookId = 61,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa12-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 242,
+                            BookId = 61,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 243,
+                            BookId = 61,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 244,
+                            BookId = 61,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 245,
+                            BookId = 62,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-aa13-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 246,
+                            BookId = 62,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 247,
+                            BookId = 62,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 248,
+                            BookId = 62,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 249,
+                            BookId = 63,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b614-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 250,
+                            BookId = 63,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 251,
+                            BookId = 63,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 252,
+                            BookId = 63,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 253,
+                            BookId = 64,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b615-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 254,
+                            BookId = 64,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 255,
+                            BookId = 64,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 256,
+                            BookId = 64,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 257,
+                            BookId = 65,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b616-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 258,
+                            BookId = 65,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 259,
+                            BookId = 65,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 260,
+                            BookId = 65,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 261,
+                            BookId = 66,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b617-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 262,
+                            BookId = 66,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 263,
+                            BookId = 66,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 264,
+                            BookId = 66,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 265,
+                            BookId = 67,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b618-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 266,
+                            BookId = 67,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 267,
+                            BookId = 67,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 268,
+                            BookId = 67,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 269,
+                            BookId = 68,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b619-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 270,
+                            BookId = 68,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 271,
+                            BookId = 68,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 272,
+                            BookId = 68,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 273,
+                            BookId = 69,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b620-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 274,
+                            BookId = 69,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 275,
+                            BookId = 69,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 276,
+                            BookId = 69,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 277,
+                            BookId = 70,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b621-4cbe-9ee8-ddd111wwwc11b3.jpg"
+                        },
+                        new
+                        {
+                            Id = 278,
+                            BookId = 70,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 279,
+                            BookId = 70,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 280,
+                            BookId = 70,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 281,
+                            BookId = 71,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b622-4cbe-9ee8-ddd111wwwc11b4.jpg"
+                        },
+                        new
+                        {
+                            Id = 282,
+                            BookId = 71,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 283,
+                            BookId = 71,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 284,
+                            BookId = 71,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 285,
+                            BookId = 72,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b623-4cbe-9ee8-ddd111wwwc11b5.jpg"
+                        },
+                        new
+                        {
+                            Id = 286,
+                            BookId = 72,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 287,
+                            BookId = 72,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 288,
+                            BookId = 72,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 289,
+                            BookId = 73,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b624-4cbe-9ee8-ddd111wwwc11b6.jpg"
+                        },
+                        new
+                        {
+                            Id = 290,
+                            BookId = 73,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 291,
+                            BookId = 73,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 292,
+                            BookId = 73,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 293,
+                            BookId = 74,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111wwwc11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 294,
+                            BookId = 74,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 295,
+                            BookId = 74,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 296,
+                            BookId = 74,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 297,
+                            BookId = 75,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w01c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 298,
+                            BookId = 75,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 299,
+                            BookId = 75,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 300,
+                            BookId = 75,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 301,
+                            BookId = 76,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w02c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 302,
+                            BookId = 76,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 303,
+                            BookId = 76,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 304,
+                            BookId = 76,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 305,
+                            BookId = 77,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w03c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 306,
+                            BookId = 77,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 307,
+                            BookId = 77,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 308,
+                            BookId = 77,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 309,
+                            BookId = 78,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w04c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 310,
+                            BookId = 78,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 311,
+                            BookId = 78,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 312,
+                            BookId = 78,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 313,
+                            BookId = 79,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w05c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 314,
+                            BookId = 79,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 315,
+                            BookId = 79,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 316,
+                            BookId = 79,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 317,
+                            BookId = 80,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w06c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 318,
+                            BookId = 80,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 319,
+                            BookId = 80,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 320,
+                            BookId = 80,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 321,
+                            BookId = 81,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w07c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 322,
+                            BookId = 81,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 323,
+                            BookId = 81,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 324,
+                            BookId = 81,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 325,
+                            BookId = 82,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w08c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 326,
+                            BookId = 82,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 327,
+                            BookId = 82,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 328,
+                            BookId = 82,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 329,
+                            BookId = 83,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w09c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 330,
+                            BookId = 83,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 331,
+                            BookId = 83,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 332,
+                            BookId = 83,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 333,
+                            BookId = 84,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w10c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 334,
+                            BookId = 84,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 335,
+                            BookId = 84,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 336,
+                            BookId = 84,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 337,
+                            BookId = 85,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w11c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 338,
+                            BookId = 85,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 339,
+                            BookId = 85,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 340,
+                            BookId = 85,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 341,
+                            BookId = 86,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w12c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 342,
+                            BookId = 86,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 343,
+                            BookId = 86,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 344,
+                            BookId = 86,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 345,
+                            BookId = 87,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w13c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 346,
+                            BookId = 87,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 347,
+                            BookId = 87,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 348,
+                            BookId = 87,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 349,
+                            BookId = 88,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w14c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 350,
+                            BookId = 88,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 351,
+                            BookId = 88,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 352,
+                            BookId = 88,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 353,
+                            BookId = 89,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w15c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 354,
+                            BookId = 89,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 355,
+                            BookId = 89,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 356,
+                            BookId = 89,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 357,
+                            BookId = 90,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w16c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 358,
+                            BookId = 90,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 359,
+                            BookId = 90,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 360,
+                            BookId = 90,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 361,
+                            BookId = 91,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w17c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 362,
+                            BookId = 91,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 363,
+                            BookId = 91,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 364,
+                            BookId = 91,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 365,
+                            BookId = 92,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w18c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 366,
+                            BookId = 92,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 367,
+                            BookId = 92,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 368,
+                            BookId = 92,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 369,
+                            BookId = 93,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w19c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 370,
+                            BookId = 93,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 371,
+                            BookId = 93,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 372,
+                            BookId = 93,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 373,
+                            BookId = 94,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w20c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 374,
+                            BookId = 94,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 375,
+                            BookId = 94,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 376,
+                            BookId = 94,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 377,
+                            BookId = 95,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w21c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 378,
+                            BookId = 95,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 379,
+                            BookId = 95,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 380,
+                            BookId = 95,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 381,
+                            BookId = 96,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w22c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 382,
+                            BookId = 96,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 383,
+                            BookId = 96,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 384,
+                            BookId = 96,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 385,
+                            BookId = 97,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w23c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 386,
+                            BookId = 97,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 387,
+                            BookId = 97,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 388,
+                            BookId = 97,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
+                        },
+                        new
+                        {
+                            Id = 389,
+                            BookId = 98,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w24c11b7.jpg"
+                        },
+                        new
+                        {
+                            Id = 390,
+                            BookId = 98,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4b77-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 391,
+                            BookId = 98,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\45f78393-ca6c-4bd7-b9cb-9e4120a9619d_3.png"
+                        },
+                        new
+                        {
+                            Id = 392,
+                            BookId = 98,
+                            Name = "X.jpeg",
+                            URL = "\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
                         });
                 });
 
@@ -869,7 +4231,7 @@ namespace BookStore.Migrations
                         {
                             Id = "c3bdd301-35d1-4114-b5e4-78d509b5607c",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "aea37ab2-e094-430e-a4f8-cf6f057dd221",
+                            ConcurrencyStamp = "097018af-c01b-429d-b8ba-6f1cb2a5899d",
                             Email = "edzaryan@gmail.com",
                             EmailConfirmed = true,
                             FirstName = "Edgar",
@@ -877,9 +4239,9 @@ namespace BookStore.Migrations
                             LockoutEnabled = true,
                             NormalizedEmail = "EDZARYAN@GMAIL.COM",
                             NormalizedUserName = "EDZARYAN@GMAIL.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEE0bcGEnzC/j5TL0/jEDsnSgV4z/pv1hlrmfmR/VqDXLfADbhYIW1pHX6/njIJ0AVA==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEM5r+R6/mG12umeywdQyVJlviZ7AHKJAUOei7tRpMDwmoFzsNc8TJo/TwB61QU9hWQ==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "9d5807a0-86fe-4a61-85f1-6c739241b150",
+                            SecurityStamp = "b08e07f5-f38c-4567-86e9-ce07fe823775",
                             TwoFactorEnabled = false,
                             UserName = "edzaryan@gmail.com"
                         });

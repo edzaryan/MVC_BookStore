@@ -23,6 +23,7 @@ namespace Entities.Configuration
             };
 
             var ph = new PasswordHasher<ApplicationUser>();
+
             user.PasswordHash = ph.HashPassword(user, "1234");
 
             builder.HasData(user);
