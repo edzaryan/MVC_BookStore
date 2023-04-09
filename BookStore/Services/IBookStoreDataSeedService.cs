@@ -7,5 +7,7 @@
         string[] GetBookTitles();
         string[] GetCoverImageNames();
         string[] GetGalleryImageNames();
+        string[] GetLanguages();
+        string[] GetCategories();
     }
 }

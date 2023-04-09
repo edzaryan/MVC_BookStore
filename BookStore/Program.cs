@@ -11,8 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 string db_connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<BookStoreContext>(options =>
-    options.UseSqlServer(db_connection, x => x.MigrationsAssembly("BookStore")));
+builder.Services.AddDbContext<BookStoreContext>(options => options.UseSqlServer(db_connection));
 
 
 builder.Services.AddControllersWithViews();

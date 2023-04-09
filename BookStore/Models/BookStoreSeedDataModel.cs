@@ -8,5 +8,7 @@ namespace Entities.Models
         public string[] GalleryImageNames { get; set; }
         public string[] Names { get; set; }
         public string[] Surnames { get; set; }
+        public string[] Languages { get; set; }
+        public string[] Categories { get; set; }
     }
 }

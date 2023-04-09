@@ -1,7 +1,6 @@
 ﻿using BookStore.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System.Text.Json;
 
 namespace Entities.Configuration
 {
@@ -11,13 +10,19 @@ namespace Entities.Configuration
         private readonly string[] _names;
         private readonly string[] _surnames;
         private readonly string[] _coverImageNames;
+        private readonly string[] _languages;
+        private readonly string[] _categories;
 
-        public BookConfiguration(string[] bookTitles, string[] names, string[] surnames, string[] coverImageNames)
+        public BookConfiguration(
+            string[] bookTitles, string[] names, string[] surnames, 
+            string[] coverImageNames, string[] languages, string[] categories)
         {
             _bookTitles = bookTitles;
             _names = names;
             _surnames = surnames;
             _coverImageNames = coverImageNames;
+            _languages = languages;
+            _categories = categories;
         }
 
         private List<Book> GetBooks()
@@ -35,7 +40,8 @@ namespace Entities.Configuration
                     Author = _names[random.Next(0, _names.Length)] + " " + _surnames[random.Next(0, _surnames.Length)],
                     Description = $"{_bookTitles[i]} is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                     TotalPage = random.Next(100, 800),
-                    LanguageId = random.Next(1, 3),
+                    LanguageId = random.Next(1, _languages.Length),
+                    CategoryId = random.Next(1, _categories.Length),
                     CoverImageUrl = $"\\files\\books\\coverImages\\{_coverImageNames[i]}",
                     CreatedOn = DateTime.Now,
                     UpdatedOn = DateTime.Now,

@@ -21,10 +21,10 @@ namespace BookStore.Controllers
             _webHostEnvironment = env;
         }
 
-        [HttpGet("all-books")]
-        public async Task<ViewResult> GetAllBooks()
+        [HttpGet("{categories}/{page}")]
+        public async Task<ViewResult> GetBooks(string categories, int page = 1)
         {
-            var data = await _bookRepository.GetAllBooks();
+            var data = await _bookRepository.GetBooks(categories, page);
 
             return View(data);
         }

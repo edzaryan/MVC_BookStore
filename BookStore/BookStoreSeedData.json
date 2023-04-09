@@ -289,5 +289,16 @@
     "Denton",
     "Duff",
     "Ford"
+  ],
+  "Categories": [
+    "Programming",
+    "Traillers",
+    "Kids",
+    "Romance"
+  ],
+  "Languages": [
+    "English",
+    "Russian",
+    "German"
   ]
 }

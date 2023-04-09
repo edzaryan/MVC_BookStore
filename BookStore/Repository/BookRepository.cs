@@ -10,11 +10,14 @@ namespace BookStore.Repository
 
         public BookRepository(BookStoreContext context) => _context = context;
 
-        public async Task<List<BookModel>> GetAllBooks()
+        public async Task<List<BookModel>> GetBooks(string categories, int page)
         {
             var books = new List<BookModel>();
 
-            var allBooks = await _context.Books.ToListAsync();
+            var allBooks = await _context.Books
+                                .Where(b => b.Category.Name == categories)
+                                .Skip((page - 1) * 16)
+                                .Take(page).ToListAsync();
 
             if (allBooks?.Any() == true)
             {
@@ -27,7 +30,7 @@ namespace BookStore.Repository
                         TotalPage = book.TotalPage,
                         LanguageId = book.LanguageId,
                         Description = book.Description,
-                        Category = book.Category,
+                        Category = book.Category.Name,
                         Author = book.Author,
                         Language = book?.Language?.Name,
                         CoverImageUrl = book.CoverImageUrl,
@@ -46,7 +49,7 @@ namespace BookStore.Repository
                         Id = book.Id,
                         Title = book.Title,
                         Author = book.Author,
-                        Category = book.Category,
+                        Category = book.Category.Name,
                         Description = book.Description,
                         LanguageId = book.LanguageId,
                         Language = book.Language.Name,

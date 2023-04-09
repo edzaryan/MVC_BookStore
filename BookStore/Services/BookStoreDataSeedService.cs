@@ -5,7 +5,7 @@ namespace BookStore.Service
 {
     public class BookStoreDataSeedService : IBookStoreDataSeedService
     {
-        private string[] names, surnames, bookTitles, coverImageNames, galleryImageNames;
+        private string[] names, surnames, bookTitles, coverImageNames, galleryImageNames, languages, categories;
 
         public BookStoreDataSeedService() 
         {
@@ -18,6 +18,8 @@ namespace BookStore.Service
                 bookTitles = model.BookTitles;
                 coverImageNames = model.CoverImageNames;
                 galleryImageNames = model.GalleryImageNames;
+                languages = model.Languages;
+                categories = model.Categories;
             }
         }
 
@@ -32,5 +34,8 @@ namespace BookStore.Service
 
         public string[] GetGalleryImageNames() => galleryImageNames;
 
+        public string[] GetLanguages() => languages;
+
+        public string[] GetCategories() => categories;
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace BookStore.Data
+﻿using Entities;
+
+namespace BookStore.Data
 {
     public class Book
     {
@@ -10,8 +12,6 @@
 
         public string? Description { get; set; }
 
-        public string? Category { get; set; }
-
         public int TotalPage { get; set; }
 
         public DateTime? CreatedOn { get; set; }
@@ -21,6 +21,10 @@
         public string? CoverImageUrl { get; set; }
 
         public string? BookPdfFileUrl { get; set; }
+
+        public int? CategoryId { get; set; }
+
+        public Category? Category { get; set; }
 
         public int? LanguageId { get; set; }
 

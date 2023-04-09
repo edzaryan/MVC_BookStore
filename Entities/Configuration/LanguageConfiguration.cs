@@ -6,25 +6,20 @@ namespace Entities.Configuration
 {
     public class LanguageConfiguration : IEntityTypeConfiguration<Language>
     {
+        private readonly string[] _languages;
+
+        public LanguageConfiguration(string[] languages) => _languages = languages;
+
+        private List<Language> GetLanguages()
+        {
+            
+
+            return categoryList;
+        }
+
         public void Configure(EntityTypeBuilder<Language> builder)
         {
-            builder.HasData(
-                new()
-                {
-                    Id = 1,
-                    Name = "English"
-                },
-                new()
-                {
-                    Id = 2,
-                    Name = "German"
-                },
-                new()
-                {
-                    Id = 3,
-                    Name = "Russian"
-                }
-            );
+            builder.HasData(GetLanguages());
         }
     }
 }
