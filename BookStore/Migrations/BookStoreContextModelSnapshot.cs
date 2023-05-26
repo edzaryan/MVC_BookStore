@@ -74,1374 +74,1374 @@ namespace BookStore.Migrations
                         new
                         {
                             Id = 1,
-                            Author = "Khai Brady",
+                            Author = "Bridger Cruz",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\83522a32-aa0b-4bd6-a84a-9e5476a26ab5_1.png",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(1963),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6149),
                             Description = "Head First C# is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Head First C#",
-                            TotalPage = 273,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(1980)
+                            TotalPage = 164,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6166)
                         },
                         new
                         {
                             Id = 2,
-                            Author = "William Carson",
+                            Author = "Bjarne Thompson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9fc8-ddd079389cbb_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(1986),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6175),
                             Description = "The C++ Programming Language is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The C++ Programming Language",
-                            TotalPage = 764,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(1986)
+                            TotalPage = 381,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6175)
                         },
                         new
                         {
                             Id = 3,
-                            Author = "Alexander Cruz",
+                            Author = "Kathy Brown",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fc4642a8-a8b3-4e43-9134-fd2cbae68af8_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2039),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6178),
                             Description = "Beginning Git and GitHub is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Beginning Git and GitHub",
-                            TotalPage = 422,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2040)
+                            TotalPage = 521,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6178)
                         },
                         new
                         {
                             Id = 4,
-                            Author = "Ozzy Jackson",
+                            Author = "Noah Thomas",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2043),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6182),
                             Description = "JavaScript for Web Developers is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "JavaScript for Web Developers",
-                            TotalPage = 694,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2043)
+                            TotalPage = 415,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6182)
                         },
                         new
                         {
                             Id = 5,
-                            Author = "Olivia White",
+                            Author = "Zyair Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\359ee713-f716-488c-866d-d05c57bafc1b_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2046),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6185),
                             Description = "Python (All-In-One) For Dummies is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Python (All-In-One) For Dummies",
-                            TotalPage = 498,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2046)
+                            TotalPage = 743,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6185)
                         },
                         new
                         {
                             Id = 6,
-                            Author = "Alexander Garcia",
+                            Author = "Ethan Brando",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\04734f18-dc2e-4ed5-bf47-5be69608dc9a_1.jpeg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2065),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6251),
                             Description = "Head First Java is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Head First Java",
-                            TotalPage = 245,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2065)
+                            TotalPage = 394,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6251)
                         },
                         new
                         {
                             Id = 7,
-                            Author = "Emma Ford",
+                            Author = "Mac Brooks",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\01fd088e-db1a-4e60-b6ef-ae96c2afddab_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2067),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6255),
                             Description = "Scala for the Impatient (Second Edition) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Scala for the Impatient (Second Edition)",
-                            TotalPage = 789,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2067)
+                            TotalPage = 296,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6255)
                         },
                         new
                         {
                             Id = 8,
-                            Author = "Michael Harris",
+                            Author = "Kathy Garcia",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\87b8a2c5-6f10-4443-9eb1-591e15f2b308_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2091),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6257),
                             Description = "Learn PHP 8 is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Learn PHP 8",
-                            TotalPage = 135,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2091)
+                            TotalPage = 724,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6257)
                         },
                         new
                         {
                             Id = 9,
-                            Author = "Eliam Cruz",
+                            Author = "Mia Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\a2eedf17-f1d1-4094-a141-fa8b42997f2a_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2094),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6261),
                             Description = "Kotlin In Action is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Kotlin In Action",
-                            TotalPage = 250,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2094)
+                            TotalPage = 173,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6261)
                         },
                         new
                         {
                             Id = 10,
-                            Author = "Sophia Lopez",
+                            Author = "Wylder Thomas",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\648c38b8-0ed4-4674-a9e5-c5d623063e95_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2098),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6267),
                             Description = "Head First Swift is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Head First Swift",
-                            TotalPage = 529,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2098)
+                            TotalPage = 737,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6267)
                         },
                         new
                         {
                             Id = 11,
-                            Author = "Koen Johnson",
+                            Author = "Olivia Lee",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f3bb.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2101),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6327),
                             Description = "Emotional Intelligence is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Emotional Intelligence",
-                            TotalPage = 150,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2101)
+                            TotalPage = 589,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6327)
                         },
                         new
                         {
                             Id = 12,
-                            Author = "Gian Anderson",
+                            Author = "Abigail Brooks",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f555.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2104),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6329),
                             Description = "Dark Psychology is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Dark Psychology",
-                            TotalPage = 409,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2104)
+                            TotalPage = 533,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6330)
                         },
                         new
                         {
                             Id = 13,
-                            Author = "Sophia Thompson",
+                            Author = "Alexander Cullen",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-bbf4f4f706f333.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2127),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6332),
                             Description = "Emotional Intelligence (Why It Can Matter More Than IQ) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Emotional Intelligence (Why It Can Matter More Than IQ)",
-                            TotalPage = 528,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2128)
+                            TotalPage = 353,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6333)
                         },
                         new
                         {
                             Id = 14,
-                            Author = "Mason Cullen",
+                            Author = "Sophia Denton",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-hho4f4f706f3bb.webp",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2129),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6336),
                             Description = "The Emotional Intelligence workbook is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "The Emotional Intelligence workbook",
-                            TotalPage = 223,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2130)
+                            TotalPage = 697,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6336)
                         },
                         new
                         {
                             Id = 15,
-                            Author = "Wylder Thomas",
+                            Author = "Eliam Garcia",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\1e15c7af-09d5-4484-9cf7-7bf4f3f706f3fb.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2132),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6339),
                             Description = "Emotional Intelligence (for leadership) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Emotional Intelligence (for leadership)",
-                            TotalPage = 294,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2132)
+                            TotalPage = 298,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6339)
                         },
                         new
                         {
                             Id = 16,
-                            Author = "Bridger Lee",
+                            Author = "Jiraiya Taylor",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbb_1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2135),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6379),
                             Description = "Take What You Need is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Take What You Need",
-                            TotalPage = 624,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2135)
+                            TotalPage = 573,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6379)
                         },
                         new
                         {
                             Id = 17,
-                            Author = "Ozzy Jones",
+                            Author = "Alexander Gonzalez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079389cbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2138),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6381),
                             Description = "A Reason For Marriage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "A Reason For Marriage",
-                            TotalPage = 575,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2138)
+                            TotalPage = 142,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6381)
                         },
                         new
                         {
                             Id = 18,
-                            Author = "Amiri Brooks",
+                            Author = "Bjarne Johnson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2164),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6387),
                             Description = "Stormy Surrender is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Stormy Surrender",
-                            TotalPage = 742,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2165)
+                            TotalPage = 743,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6387)
                         },
                         new
                         {
                             Id = 19,
-                            Author = "Charlotte Brooks",
+                            Author = "Camilo Carson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd088wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2166),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6391),
                             Description = "In Graywolf's Hands (The Bachelors Of Blair Memorial) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "In Graywolf's Hands (The Bachelors Of Blair Memorial)",
-                            TotalPage = 333,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2167)
+                            TotalPage = 619,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6391)
                         },
                         new
                         {
                             Id = 20,
-                            Author = "Camilo Brown",
+                            Author = "Elio Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9gc8-ddd079wwcvbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2169),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6393),
                             Description = "Maximum Ride Forever is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Maximum Ride Forever",
-                            TotalPage = 212,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2170)
+                            TotalPage = 390,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6393)
                         },
                         new
                         {
                             Id = 21,
-                            Author = "Amiri Carson",
+                            Author = "Mac Johnson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd079wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2171),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6412),
                             Description = "The Lost Wife is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "The Lost Wife",
-                            TotalPage = 117,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2172)
+                            TotalPage = 675,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6413)
                         },
                         new
                         {
                             Id = 22,
-                            Author = "Matt Hernandez",
+                            Author = "Banks Denton",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\acbc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2174),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6414),
                             Description = "The Forced Bride is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The Forced Bride",
-                            TotalPage = 709,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2174)
+                            TotalPage = 764,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6415)
                         },
                         new
                         {
                             Id = 23,
-                            Author = "Noah Cruz",
+                            Author = "Emma Cullen",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2197),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6416),
                             Description = "A Lady Betrayed is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "A Lady Betrayed",
-                            TotalPage = 764,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2198)
+                            TotalPage = 721,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6417)
                         },
                         new
                         {
                             Id = 24,
-                            Author = "John Martinez",
+                            Author = "Bjarne Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\4ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2200),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6419),
                             Description = "Winning the Highlander's Heart is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Winning the Highlander's Heart",
-                            TotalPage = 114,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2200)
+                            TotalPage = 364,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6419)
                         },
                         new
                         {
                             Id = 25,
-                            Author = "Andrew Thomas",
+                            Author = "Onyx Ford",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\5ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2202),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6426),
                             Description = "Alaska Skies is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Alaska Skies",
-                            TotalPage = 387,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2202)
+                            TotalPage = 385,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6427)
                         },
                         new
                         {
                             Id = 26,
-                            Author = "Alexander Sanchez",
+                            Author = "John Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\6ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2204),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6484),
                             Description = "Hungry for More is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Hungry for More",
-                            TotalPage = 177,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2204)
+                            TotalPage = 735,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6484)
                         },
                         new
                         {
                             Id = 27,
-                            Author = "Emily Brady",
+                            Author = "Charlotte Brooks",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\7ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2206),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6486),
                             Description = "Gem of a Girl is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Gem of a Girl",
-                            TotalPage = 375,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2206)
+                            TotalPage = 571,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6487)
                         },
                         new
                         {
                             Id = 28,
-                            Author = "Banks Perez",
+                            Author = "Ozzy White",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\8ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2230),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6488),
                             Description = "Surrender to the Fury is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Surrender to the Fury",
-                            TotalPage = 734,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2230)
+                            TotalPage = 540,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6489)
                         },
                         new
                         {
                             Id = 29,
-                            Author = "Loyal Martin",
+                            Author = "Kylian Martinez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\9ffc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2232),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6490),
                             Description = "Leave Yesterday Behind is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Leave Yesterday Behind",
-                            TotalPage = 217,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2232)
+                            TotalPage = 353,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6491)
                         },
                         new
                         {
                             Id = 30,
-                            Author = "Camilo Garcia",
+                            Author = "Matt Hernandez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\99fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2234),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6493),
                             Description = "The Lion's Bride is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The Lion's Bride",
-                            TotalPage = 786,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2234)
+                            TotalPage = 563,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6494)
                         },
                         new
                         {
                             Id = 31,
-                            Author = "Mariot Harris",
+                            Author = "Bridger Denton",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\77fc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2235),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6554),
                             Description = "Villa In The Sun is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Villa In The Sun",
-                            TotalPage = 321,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2236)
+                            TotalPage = 772,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6555)
                         },
                         new
                         {
                             Id = 32,
-                            Author = "Amiri Jackson",
+                            Author = "Mac Casey",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwcbbdd.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2237),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6557),
                             Description = "Lover's Touch is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Lover's Touch",
-                            TotalPage = 330,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2237)
+                            TotalPage = 625,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6557)
                         },
                         new
                         {
                             Id = 33,
-                            Author = "Olivia Wilson",
+                            Author = "Matt Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1111.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2239),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6559),
                             Description = "Never A Lady is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Never A Lady",
-                            TotalPage = 655,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2239)
+                            TotalPage = 535,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6559)
                         },
                         new
                         {
                             Id = 34,
-                            Author = "Ava Gonzalez",
+                            Author = "Banks Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1112.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2267),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6561),
                             Description = "A Reason For Marriage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "A Reason For Marriage",
-                            TotalPage = 613,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2267)
+                            TotalPage = 694,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6562)
                         },
                         new
                         {
                             Id = 35,
-                            Author = "Gian Harris",
+                            Author = "Amiri Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1113.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2269),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6564),
                             Description = "The Siren is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The Siren",
-                            TotalPage = 135,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2269)
+                            TotalPage = 599,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6564)
                         },
                         new
                         {
                             Id = 36,
-                            Author = "Loyal Harris",
+                            Author = "Camilo Casey",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1114.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2271),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6623),
                             Description = "Twice Her Husband (Silhouette Special Edition) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Twice Her Husband (Silhouette Special Edition)",
-                            TotalPage = 767,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2271)
+                            TotalPage = 789,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6623)
                         },
                         new
                         {
                             Id = 37,
-                            Author = "Alexander Hernandez",
+                            Author = "William Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1115.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2273),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6626),
                             Description = "The Blind - Date Bride (The Australians) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The Blind - Date Bride (The Australians)",
-                            TotalPage = 687,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2273)
+                            TotalPage = 462,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6626)
                         },
                         new
                         {
                             Id = 38,
-                            Author = "Sophia Johnson",
+                            Author = "Bridger Miller",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1116.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2296),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6627),
                             Description = "Only Love is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Only Love",
-                            TotalPage = 387,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2296)
+                            TotalPage = 192,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6628)
                         },
                         new
                         {
                             Id = 39,
-                            Author = "Zyair Denton",
+                            Author = "Koen Ford",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1117.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2298),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6629),
                             Description = "Christmas at Lilac Cottage is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Christmas at Lilac Cottage",
-                            TotalPage = 797,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2298)
+                            TotalPage = 550,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6630)
                         },
                         new
                         {
                             Id = 40,
-                            Author = "Olivia Thomas",
+                            Author = "Emily Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1118.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2300),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6631),
                             Description = "Once Upon A Scandal (Once Upon Scandal) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Once Upon A Scandal (Once Upon Scandal)",
-                            TotalPage = 301,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2300)
+                            TotalPage = 397,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6632)
                         },
                         new
                         {
                             Id = 41,
-                            Author = "Camilo Rodriguez",
+                            Author = "Jacob Brando",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1119.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2301),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6743),
                             Description = "Wild Jasmine is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Wild Jasmine",
-                            TotalPage = 730,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2302)
+                            TotalPage = 141,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6743)
                         },
                         new
                         {
                             Id = 42,
-                            Author = "William Denton",
+                            Author = "Olivia Wilson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1110.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2304),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6745),
                             Description = "Promise Of A Family is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Promise Of A Family",
-                            TotalPage = 416,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2304)
+                            TotalPage = 705,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6746)
                         },
                         new
                         {
                             Id = 43,
-                            Author = "Colter Lee",
+                            Author = "Zyair Brando",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11d1.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2306),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6747),
                             Description = "Happy Christmas Love Mills Boon Helen Bianchin Et Al is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Happy Christmas Love Mills Boon Helen Bianchin Et Al",
-                            TotalPage = 579,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2306)
+                            TotalPage = 523,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6747)
                         },
                         new
                         {
                             Id = 44,
-                            Author = "Colter Miller",
+                            Author = "Onyx Harris",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc1a12.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2341),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6749),
                             Description = "Sister to Meryl is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Sister to Meryl",
-                            TotalPage = 487,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2341)
+                            TotalPage = 334,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6749)
                         },
                         new
                         {
                             Id = 45,
-                            Author = "Emily Brady",
+                            Author = "Michael Brady",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2343),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6751),
                             Description = "Stellar Attraction is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Stellar Attraction",
-                            TotalPage = 639,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2343)
+                            TotalPage = 645,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6751)
                         },
                         new
                         {
                             Id = 46,
-                            Author = "John Martinez",
+                            Author = "Emily Thompson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2345),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6752),
                             Description = "The wife he couldn't forget / Seduced by the CEO is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The wife he couldn't forget / Seduced by the CEO",
-                            TotalPage = 499,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2345)
+                            TotalPage = 622,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6753)
                         },
                         new
                         {
                             Id = 47,
-                            Author = "James Anderson",
+                            Author = "Evander Hernandez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2347),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6772),
                             Description = "Match For Mom is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Match For Mom",
-                            TotalPage = 783,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2348)
+                            TotalPage = 304,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6773)
                         },
                         new
                         {
                             Id = 48,
-                            Author = "Koen Martin",
+                            Author = "Ethan Ford",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2349),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6775),
                             Description = "Lucianna is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Lucianna",
-                            TotalPage = 540,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2350)
+                            TotalPage = 295,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6775)
                         },
                         new
                         {
                             Id = 49,
-                            Author = "James Martin",
+                            Author = "Camilo Hernandez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b6cb-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2373),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6777),
                             Description = "Hidden mistress, public wife is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Hidden mistress, public wife",
-                            TotalPage = 533,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2373)
+                            TotalPage = 556,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6777)
                         },
                         new
                         {
                             Id = 50,
-                            Author = "Olivia Rodriguez",
+                            Author = "Matt Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa01-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2375),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6779),
                             Description = "Dance of Death is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Dance of Death",
-                            TotalPage = 542,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2375)
+                            TotalPage = 596,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6779)
                         },
                         new
                         {
                             Id = 51,
-                            Author = "Liam Jones",
+                            Author = "Camilo White",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa02-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2377),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6781),
                             Description = "Bears, bears, bears is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Bears, bears, bears",
-                            TotalPage = 335,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2377)
+                            TotalPage = 442,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6781)
                         },
                         new
                         {
                             Id = 52,
-                            Author = "Kathy Brown",
+                            Author = "Bjarne Garcia",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa03-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2379),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6801),
                             Description = "Mockingjay is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Mockingjay",
-                            TotalPage = 728,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2379)
+                            TotalPage = 596,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6801)
                         },
                         new
                         {
                             Id = 53,
-                            Author = "Mariot Casey",
+                            Author = "James Thomas",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa04-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2381),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6803),
                             Description = "Larklight is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Larklight",
-                            TotalPage = 235,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2381)
+                            TotalPage = 517,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6803)
                         },
                         new
                         {
                             Id = 54,
-                            Author = "Gian Cruz",
+                            Author = "Kylian Moore",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa05-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2404),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6806),
                             Description = "Flat Stanley on ice is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Flat Stanley on ice",
-                            TotalPage = 100,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2405)
+                            TotalPage = 417,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6806)
                         },
                         new
                         {
                             Id = 55,
-                            Author = "Kylian Cruz",
+                            Author = "Mariot Miller",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa06-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2407),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6807),
                             Description = "Taran Wanderer (The Chronicles of Prydain) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Taran Wanderer (The Chronicles of Prydain)",
-                            TotalPage = 545,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2407)
+                            TotalPage = 212,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6808)
                         },
                         new
                         {
                             Id = 56,
-                            Author = "Mariot Thomas",
+                            Author = "Abigail White",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa07-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2408),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6809),
                             Description = "Big Nate is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Big Nate",
-                            TotalPage = 363,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2409)
+                            TotalPage = 265,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6810)
                         },
                         new
                         {
                             Id = 57,
-                            Author = "Eliam Harris",
+                            Author = "Ethan Wilson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa08-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2410),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6870),
                             Description = "In a Glass Grimmly is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "In a Glass Grimmly",
-                            TotalPage = 342,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2411)
+                            TotalPage = 215,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6870)
                         },
                         new
                         {
                             Id = 58,
-                            Author = "Camilo Hernandez",
+                            Author = "Ava Gonzalez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa09-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2413),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6872),
                             Description = "Nate the Great Talks Turkey is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Nate the Great Talks Turkey",
-                            TotalPage = 213,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2413)
+                            TotalPage = 651,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6872)
                         },
                         new
                         {
                             Id = 59,
-                            Author = "Noah Miller",
+                            Author = "Ethan Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa10-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2437),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6874),
                             Description = "Thea Stilton And The Great Tulip Heist is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Thea Stilton And The Great Tulip Heist",
-                            TotalPage = 213,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2438)
+                            TotalPage = 316,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6874)
                         },
                         new
                         {
                             Id = 60,
-                            Author = "Olivia Perez",
+                            Author = "Kylian Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa11-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2440),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6876),
                             Description = "Harry Potter and the Philosopher's Stone is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Harry Potter and the Philosopher's Stone",
-                            TotalPage = 635,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2440)
+                            TotalPage = 288,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6876)
                         },
                         new
                         {
                             Id = 61,
-                            Author = "Ava Cruz",
+                            Author = "Abigail Casey",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa12-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2442),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6879),
                             Description = "The Book Thief is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The Book Thief",
-                            TotalPage = 117,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2443)
+                            TotalPage = 638,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6879)
                         },
                         new
                         {
                             Id = 62,
-                            Author = "Michael Carson",
+                            Author = "Mason Clark",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-aa13-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2444),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6936),
                             Description = "Cue for Treason is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Cue for Treason",
-                            TotalPage = 583,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2444)
+                            TotalPage = 139,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6936)
                         },
                         new
                         {
                             Id = 63,
-                            Author = "Koen Lopez",
+                            Author = "Emma Carson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b614-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2446),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6938),
                             Description = "The House of Hades is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "The House of Hades",
-                            TotalPage = 230,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2446)
+                            TotalPage = 267,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6938)
                         },
                         new
                         {
                             Id = 64,
-                            Author = "Sophia Duff",
+                            Author = "Onyx Lopez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b615-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2470),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6940),
                             Description = "Dangerous pumpkins is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Dangerous pumpkins",
-                            TotalPage = 766,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2470)
+                            TotalPage = 695,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6940)
                         },
                         new
                         {
                             Id = 65,
-                            Author = "Bjarne Wilson",
+                            Author = "Isabella Thompson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b616-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2473),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6942),
                             Description = "Danger at the Landings is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Danger at the Landings",
-                            TotalPage = 290,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2474)
+                            TotalPage = 434,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6942)
                         },
                         new
                         {
                             Id = 66,
-                            Author = "Ozzy Clark",
+                            Author = "Madison Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b617-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2478),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6947),
                             Description = "Battle of the Bots is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Battle of the Bots",
-                            TotalPage = 455,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2479)
+                            TotalPage = 676,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(6947)
                         },
                         new
                         {
                             Id = 67,
-                            Author = "Charlotte Miller",
+                            Author = "Kylian Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b618-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2480),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7005),
                             Description = "Prise d'otages à Disneyland is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Prise d'otages à Disneyland",
-                            TotalPage = 317,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2481)
+                            TotalPage = 321,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7005)
                         },
                         new
                         {
                             Id = 68,
-                            Author = "Isabella Anderson",
+                            Author = "Eliam Brady",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b619-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2482),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7008),
                             Description = "Games Magazine Presents the Kids' Giant Book of Games is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Games Magazine Presents the Kids' Giant Book of Games",
-                            TotalPage = 288,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2483)
+                            TotalPage = 688,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7008)
                         },
                         new
                         {
                             Id = 69,
-                            Author = "Gian Davis",
+                            Author = "Elijah Hernandez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b620-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2506),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7010),
                             Description = "Lucy and the Wolf in Sheep's Clothing (A Young Lion Storybook) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Lucy and the Wolf in Sheep's Clothing (A Young Lion Storybook)",
-                            TotalPage = 155,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2506)
+                            TotalPage = 570,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7010)
                         },
                         new
                         {
                             Id = 70,
-                            Author = "Noah Martin",
+                            Author = "Eliam Thompson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b621-4cbe-9ee8-ddd111wwwc11b3.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2508),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7012),
                             Description = "Atlantis quest is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Atlantis quest",
-                            TotalPage = 205,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2508)
+                            TotalPage = 589,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7012)
                         },
                         new
                         {
                             Id = 71,
-                            Author = "Noah Brando",
+                            Author = "Ozzy Denton",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b622-4cbe-9ee8-ddd111wwwc11b4.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2510),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7014),
                             Description = "The Way (Darby Creek Exceptional Titles) is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The Way (Darby Creek Exceptional Titles)",
-                            TotalPage = 673,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2510)
+                            TotalPage = 272,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7014)
                         },
                         new
                         {
                             Id = 72,
-                            Author = "Bridger Rodriguez",
+                            Author = "Mia Wilson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b623-4cbe-9ee8-ddd111wwwc11b5.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2512),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7073),
                             Description = "The voice and the pendant is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The voice and the pendant",
-                            TotalPage = 712,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2512)
+                            TotalPage = 357,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7073)
                         },
                         new
                         {
                             Id = 73,
-                            Author = "Mia Jackson",
+                            Author = "Mia Martin",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b624-4cbe-9ee8-ddd111wwwc11b6.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2514),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7075),
                             Description = "Hattie Marshall and the dangerous fire is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Hattie Marshall and the dangerous fire",
-                            TotalPage = 192,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2514)
+                            TotalPage = 501,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7075)
                         },
                         new
                         {
                             Id = 74,
-                            Author = "Andrew Clark",
+                            Author = "Alexander Cullen",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111wwwc11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2538),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7077),
                             Description = "Henry and the hand-me-downs is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Henry and the hand-me-downs",
-                            TotalPage = 204,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2538)
+                            TotalPage = 170,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7077)
                         },
                         new
                         {
                             Id = 75,
-                            Author = "Jacob Anderson",
+                            Author = "Charlotte Garcia",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w01c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2540),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7079),
                             Description = "The eyes of darkness is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The eyes of darkness",
-                            TotalPage = 675,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2540)
+                            TotalPage = 109,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7080)
                         },
                         new
                         {
                             Id = 76,
-                            Author = "Emily Jones",
+                            Author = "Loyal Carson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w02c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2542),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7081),
                             Description = "IT is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "IT",
-                            TotalPage = 422,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2542)
+                            TotalPage = 444,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7082)
                         },
                         new
                         {
                             Id = 77,
-                            Author = "Elio Duff",
+                            Author = "Abigail Davis",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w03c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2544),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7169),
                             Description = "The Shining is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "The Shining",
-                            TotalPage = 130,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2544)
+                            TotalPage = 359,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7170)
                         },
                         new
                         {
                             Id = 78,
-                            Author = "Mac Jones",
+                            Author = "Emma Martinez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w04c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2546),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7171),
                             Description = "Cell is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Cell",
-                            TotalPage = 331,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2546)
+                            TotalPage = 280,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7172)
                         },
                         new
                         {
                             Id = 79,
-                            Author = "Amiri Johnson",
+                            Author = "Liam Davis",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w05c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2569),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7174),
                             Description = "RED STORM RISING is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "RED STORM RISING",
-                            TotalPage = 712,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2569)
+                            TotalPage = 521,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7174)
                         },
                         new
                         {
                             Id = 80,
-                            Author = "Koen Johnson",
+                            Author = "Onyx Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w06c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2571),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7175),
                             Description = "Insomnia is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Insomnia",
-                            TotalPage = 231,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2572)
+                            TotalPage = 661,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7176)
                         },
                         new
                         {
                             Id = 81,
-                            Author = "Amiri Martinez",
+                            Author = "Jiraiya Jones",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w07c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2573),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7177),
                             Description = "Pet Sematary is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Pet Sematary",
-                            TotalPage = 219,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2574)
+                            TotalPage = 456,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7178)
                         },
                         new
                         {
                             Id = 82,
-                            Author = "Evander Clark",
+                            Author = "Wylder Ford",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w08c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2575),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7217),
                             Description = "Black wind is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Black wind",
-                            TotalPage = 112,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2576)
+                            TotalPage = 720,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7218)
                         },
                         new
                         {
                             Id = 83,
-                            Author = "Andrew Perez",
+                            Author = "Michael Lee",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w09c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2577),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7220),
                             Description = "The Bachman Books is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The Bachman Books",
-                            TotalPage = 474,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2577)
+                            TotalPage = 614,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7220)
                         },
                         new
                         {
                             Id = 84,
-                            Author = "Khai Brando",
+                            Author = "Amiri White",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w10c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2579),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7222),
                             Description = "Just After Sunset is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "Just After Sunset",
-                            TotalPage = 323,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2579)
+                            TotalPage = 449,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7222)
                         },
                         new
                         {
                             Id = 85,
-                            Author = "Onyx Harris",
+                            Author = "Gian Sanchez",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w11c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2607),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7224),
                             Description = "Carrie is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Carrie",
-                            TotalPage = 199,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2608)
+                            TotalPage = 367,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7224)
                         },
                         new
                         {
                             Id = 86,
-                            Author = "Camilo Gonzalez",
+                            Author = "Eliam Williams",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w12c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2609),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7226),
                             Description = "Under the Dome is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Under the Dome",
-                            TotalPage = 350,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2610)
+                            TotalPage = 255,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7226)
                         },
                         new
                         {
                             Id = 87,
-                            Author = "Ozzy Ford",
+                            Author = "Zyair Davis",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w13c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2611),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7287),
                             Description = "The bear and the dragon is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "The bear and the dragon",
-                            TotalPage = 716,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2611)
+                            TotalPage = 630,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7287)
                         },
                         new
                         {
                             Id = 88,
-                            Author = "Noah Brando",
+                            Author = "Onyx Brown",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w14c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2613),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7288),
                             Description = "Dark Justice is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Dark Justice",
-                            TotalPage = 367,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2613)
+                            TotalPage = 642,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7289)
                         },
                         new
                         {
                             Id = 89,
-                            Author = "John Anderson",
+                            Author = "Liam Thompson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w15c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2615),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7290),
                             Description = "The good guy is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "The good guy",
-                            TotalPage = 283,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2615)
+                            TotalPage = 121,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7291)
                         },
                         new
                         {
                             Id = 90,
-                            Author = "Khai Perez",
+                            Author = "Colter Moore",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w16c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2640),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7292),
                             Description = "Executive Orders is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Executive Orders",
-                            TotalPage = 149,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2641)
+                            TotalPage = 764,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7293)
                         },
                         new
                         {
                             Id = 91,
-                            Author = "Sophia Denton",
+                            Author = "Eliam Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w17c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2642),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7294),
                             Description = "Treasure is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Treasure",
-                            TotalPage = 775,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2642)
+                            TotalPage = 424,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7294)
                         },
                         new
                         {
                             Id = 92,
-                            Author = "Banks Carson",
+                            Author = "Olivia Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 3,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w18c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2644),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7314),
                             Description = "The Green Mile is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 1,
+                            LanguageId = 2,
                             Title = "The Green Mile",
-                            TotalPage = 666,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2644)
+                            TotalPage = 434,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7314)
                         },
                         new
                         {
                             Id = 93,
-                            Author = "Sophia Thomas",
+                            Author = "Jiraiya White",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 2,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w19c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2646),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7316),
                             Description = "Different Seasons is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Different Seasons",
-                            TotalPage = 402,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2646)
+                            TotalPage = 217,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7316)
                         },
                         new
                         {
                             Id = 94,
-                            Author = "Gian Rodriguez",
+                            Author = "Noah Brando",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w20c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2648),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7318),
                             Description = "Debt of Honor is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
-                            LanguageId = 2,
+                            LanguageId = 1,
                             Title = "Debt of Honor",
-                            TotalPage = 406,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2649)
+                            TotalPage = 601,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7318)
                         },
                         new
                         {
                             Id = 95,
-                            Author = "Emily Brady",
+                            Author = "Sophia Smith",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w21c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2672),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7320),
                             Description = "Atlantis Found is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Atlantis Found",
-                            TotalPage = 770,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2673)
+                            TotalPage = 218,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7320)
                         },
                         new
                         {
                             Id = 96,
-                            Author = "William Denton",
+                            Author = "Kylian Anderson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
                             CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w22c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2674),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7322),
                             Description = "Wolves of the Calla is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "Wolves of the Calla",
-                            TotalPage = 782,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2674)
+                            TotalPage = 292,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7322)
                         },
                         new
                         {
                             Id = 97,
-                            Author = "Alexander Duff",
+                            Author = "Elijah Carson",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 2,
+                            CategoryId = 1,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w23c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2676),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7324),
                             Description = "Red rabbit is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 2,
                             Title = "Red rabbit",
-                            TotalPage = 112,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2677)
+                            TotalPage = 439,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7324)
                         },
                         new
                         {
                             Id = 98,
-                            Author = "Camilo Brady",
+                            Author = "Emma Taylor",
                             BookPdfFileUrl = "\\files\\books\\bookPdfFiles\\edad80b3-edfb-4984-979f-319bcbb96049_Head _First_C_Sharp.pdf",
-                            CategoryId = 1,
+                            CategoryId = 3,
                             CoverImageUrl = "\\files\\books\\coverImages\\fgfc0832-b625-4cbe-9ee8-ddd111w24c11b7.jpg",
-                            CreatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2678),
+                            CreatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7392),
                             Description = "The Dark Tower is a complete learning experience for programming\r\nwith C#, XAML, the .NET Framework, and Visual Studio. Built for\r\nyour brain, this book keeps you engaged from the first chapter,\r\nwhere you’ll build a fully functional video game. After that, you’ll\r\nlearn about classes and object-oriented programming, draw graphics and animation, query your data with LINQ, and serialize it to\r\nfiles. And you’ll do it all by building games, solving puzzles, and\r\ndoing hands-on projects. By the time you’re done you’ll be a solid\r\nC# programmer, and you’ll have a great time along the way!",
                             LanguageId = 1,
                             Title = "The Dark Tower",
-                            TotalPage = 630,
-                            UpdatedOn = new DateTime(2023, 4, 9, 20, 14, 8, 301, DateTimeKind.Local).AddTicks(2679)
+                            TotalPage = 338,
+                            UpdatedOn = new DateTime(2023, 4, 11, 11, 46, 43, 190, DateTimeKind.Local).AddTicks(7392)
                         });
                 });
 
@@ -4370,7 +4370,7 @@ namespace BookStore.Migrations
                         {
                             Id = "c3bdd301-35d1-4114-b5e4-78d509b5607c",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "8156a559-8119-4898-bb4e-2f5df856f9e7",
+                            ConcurrencyStamp = "d90444a4-3cb7-43b4-8ff7-d3133757cf8c",
                             Email = "edzaryan@gmail.com",
                             EmailConfirmed = true,
                             FirstName = "Edgar",
@@ -4378,9 +4378,9 @@ namespace BookStore.Migrations
                             LockoutEnabled = true,
                             NormalizedEmail = "EDZARYAN@GMAIL.COM",
                             NormalizedUserName = "EDZARYAN@GMAIL.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEGz36lpIE0bjfsZjUE0PHbdcTkHPmKvJrQZ0yuknPkjhvYmdcXe0R9B2yoOI754c7g==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEItBgxphhz4kY+I9OrkNEg/dYYQpINyOheL1SRrROjTjdMH4LZZF1XZqt3WbS4BOCw==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "14c92f6d-92e1-4549-bdca-ade73e4446aa",
+                            SecurityStamp = "8122c88e-c305-4834-aa02-10b2fb908111",
                             TwoFactorEnabled = false,
                             UserName = "edzaryan@gmail.com"
                         });

@@ -1,3 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+}
 
 .jumbotron {
     background: none;
@@ -71,6 +78,13 @@ body {
 .membership-img {
     width: 80%;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
 
 
 .xxx {

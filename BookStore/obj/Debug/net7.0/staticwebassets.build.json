@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2YiRhk/6fr4dvyjACFHFgnWQiLvBdA1IgZ2tRfY/l+c=",
+  "Hash": "pKH1llUfmoVJRGn1vO2zBUYzDmjRQ3xBKB04Ou2YUDA=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -1853,12 +1853,12 @@
       "OriginalItemSpec": "wwwroot\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\login.png",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\images\\login.png",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/login.png",
+      "RelativePath": "images/login.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\login.png"
+      "OriginalItemSpec": "wwwroot\\images\\login.png"
     },
     {
-      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\signup.png",
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\images\\signup.png",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "files/signup.png",
+      "RelativePath": "images/signup.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,7 +1884,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\files\\signup.png"
+      "OriginalItemSpec": "wwwroot\\images\\signup.png"
     },
     {
       "Identity": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery\\core.js",

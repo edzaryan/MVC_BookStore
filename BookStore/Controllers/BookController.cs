@@ -12,6 +12,7 @@ namespace BookStore.Controllers
         private readonly ILanguageRepository? _languageRepository = null;
         private readonly IWebHostEnvironment? _webHostEnvironment = null;
 
+
         public BookController(IBookRepository bookRepository, 
             ILanguageRepository languageRepository,
             IWebHostEnvironment env)
@@ -21,13 +22,15 @@ namespace BookStore.Controllers
             _webHostEnvironment = env;
         }
 
-        [HttpGet("{categories}/{page}")]
-        public async Task<ViewResult> GetBooks(string categories, int page = 1)
+
+        [HttpGet("categories/{category}/{letter?}/{page?}")]
+        public async Task<ViewResult> GetCategoryBook(string category, string letter = "A", int page = 1)
         {
-            var data = await _bookRepository.GetBooks(categories, page);
+            var data = await _bookRepository.GetBooks(category, letter, page);
 
             return View(data);
         }
+
 
         [HttpGet("book-details/{id:int:min(1)}", Name = "Details")]
         public async Task<ViewResult> GetBook(int id)
@@ -37,13 +40,24 @@ namespace BookStore.Controllers
             return View(data);
         }
 
-        [HttpGet]
-        public ViewResult SearchBook(string bookTitle, string authorName)
-        {
-            var data = _bookRepository.SearchBook(bookTitle, authorName);
 
-            return View();
+        [HttpGet("search")]
+        public /*async Task<ViewResult>*/ void SearchBook(string v = "abc", int page = 5, int rat = 4, int cond = 3, string price = "140-200", string cat = "1,5,6", string year = "1970-1980", string lang = "eng,rus,arm")
+        {
+            Console.WriteLine("v: " + v);
+            Console.WriteLine("page: " + page);
+            Console.WriteLine("rat: " + rat);
+            Console.WriteLine("cond: " + cond);
+            Console.WriteLine("price: " + price);
+            Console.WriteLine("cat: " + cat);
+            Console.WriteLine("year: " + year);
+            Console.WriteLine("lang: " + lang);
+
+            //var data = await _bookRepository.SearchBook(v, page);
+
+            //return View(data);
         }
+
 
         [Authorize]
         [HttpGet("add-book")]
@@ -59,6 +73,7 @@ namespace BookStore.Controllers
 
             return View(model);
         }
+
 
         [HttpPost("add-book")]
         [RequestFormLimits(MultipartBodyLengthLimit = 152428800)]
@@ -111,6 +126,7 @@ namespace BookStore.Controllers
 
             return View();
         }
+
 
         private async Task<string> UploadImage(string folderPath, IFormFile file)
         {

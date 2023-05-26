@@ -1,11 +1,12 @@
 ﻿@model IEnumerable<BookModel>
+@using BookStore.Enums;
+
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Uncover New Worlds Within the Pages";
 }
 
 <section class="jumbotron text-center">
     <div class="container">
-        <h1>Album example</h1>
         <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
         <p>
             <a href="#" class="btn btn-success my-2">Search books</a>
@@ -15,9 +16,17 @@
 
 <hr />
 
-<div class="h3">Top Books</div>
 
-<vc:top-books count="8"></vc:top-books>
+<vc:book-list count="6" type="@BookType.BestBooksByMonth" title="Tranding Now: Today's Top Sellers" />
+
+<vc:book-list count="6" type="@BookType.BestBooksByMonth" title="The Best Books of @DateTime.Now.ToString("MMMM")" />
+
+<vc:book-list count="6" type="@BookType.NewComingSoon" title="Just Announced & Coming Soon" />
+
+<vc:book-list count="6" type="@BookType.BestYoungAdult" title="The Best In Young Adult" />
+
+<vc:book-list count="6" type="@BookType.BestKids" title="The Best In Kids" />
+
 
 @section scripts {
     <script>

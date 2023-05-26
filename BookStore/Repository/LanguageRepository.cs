@@ -8,20 +8,17 @@ namespace BookStore.Repository
     {
         private readonly BookStoreContext _context;
 
-        public LanguageRepository(BookStoreContext context)
-        {
-            _context = context;
-        }
+        public LanguageRepository(BookStoreContext context) => _context = context;
 
         public async Task<List<LanguageModel>> GetLanguages()
         {
-            var languages = await _context.Languages.Select(x => new LanguageModel()
-            {
-                Id = x.Id,
-                Name = x.Name,
-            }).ToListAsync();
-
-            return languages;
+            return await _context.Languages
+                                    .Select(language => new LanguageModel
+                                    {
+                                        Id = language.Id,
+                                        Name = language.Name,
+                                    })
+                                    .ToListAsync();
         }
     }
 }

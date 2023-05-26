@@ -433,12 +433,12 @@
       "PackagePath": "staticwebassets\\files\\books\\galleryImages\\ce0f7196-f93d-4de6-85e7-f1ed076b4aaa_2.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\login.png",
-      "PackagePath": "staticwebassets\\files\\login.png"
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\images\\login.png",
+      "PackagePath": "staticwebassets\\images\\login.png"
     },
     {
-      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\files\\signup.png",
-      "PackagePath": "staticwebassets\\files\\signup.png"
+      "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\images\\signup.png",
+      "PackagePath": "staticwebassets\\images\\signup.png"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Desktop\\MVC_BookStore\\BookStore\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",

@@ -1,0 +1,13 @@
+﻿@model List<BookModel>
+
+<div>
+    <h3>@ViewData["Title"]</h3>
+</div>
+<div class="row">
+    @foreach (var book in Model)
+    {
+        <div class="col-md-2">
+            <partial name="_bookThumbnail" model="book" />
+        </div>
+    }
+</div>

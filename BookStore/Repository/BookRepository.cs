@@ -1,4 +1,5 @@
 ﻿using BookStore.Data;
+using BookStore.Enums;
 using BookStore.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,18 +11,19 @@ namespace BookStore.Repository
 
         public BookRepository(BookStoreContext context) => _context = context;
 
-        public async Task<List<BookModel>> GetBooks(string categories, int page)
+        public async Task<List<BookModel>> GetBooks(string categories, string letter, int page)
         {
             var books = new List<BookModel>();
 
-            var allBooks = await _context.Books
-                                .Where(b => b.Category.Name == categories)
+            var result = await _context.Books
+                                .Where(b => (b.Category.Name == categories) && (b.Title.StartsWith(letter)))
                                 .Skip((page - 1) * 16)
-                                .Take(page).ToListAsync();
+                                .Take(16)
+                                .ToListAsync();
 
-            if (allBooks?.Any() == true)
+            if (result != null)
             {
-                foreach (var book in allBooks)
+                foreach (var book in result)
                 {
                     books.Add(new BookModel
                     {
@@ -65,7 +67,22 @@ namespace BookStore.Repository
                     }).FirstOrDefaultAsync();
         }
 
-        public async Task<List<BookModel>> GetTopBooks(int count)
+
+        public async Task<List<BookModel>> GetBookList(BookType type, int count)
+        {
+            List<BookModel> books = type switch
+            {
+                BookType.BestBooksByMonth => await GetBestBooksByMonthAsync(count),
+                BookType.BestKids => await GetBestKidsBooksAsync(count),
+                BookType.BestYoungAdult => await GetBestYoungAdultBooksAsync(count),
+                BookType.NewComingSoon => await GetNewComingSoonBooksAsync(count),
+                BookType.TrendingNow => await GetTrendingBooksAsync(count)
+            };
+
+            return books;
+        }
+
+        private async Task<List<BookModel>> GetBestBooksByMonthAsync(int count)
         {
             return await _context.Books
                             .Select(book => new BookModel
@@ -77,6 +94,59 @@ namespace BookStore.Repository
                                 Author = book.Author
                             }).Take(count).ToListAsync();
         }
+
+        private async Task<List<BookModel>> GetBestKidsBooksAsync(int count)
+        {
+            return await _context.Books
+                .Select(book => new BookModel
+                {
+                    Id = book.Id,
+                    Title = book.Title,
+                    Description = book.Description,
+                    CoverImageUrl = book.CoverImageUrl,
+                    Author = book.Author
+                }).Take(count).ToListAsync();
+        }
+
+        private async Task<List<BookModel>> GetBestYoungAdultBooksAsync(int count)
+        {
+            return await _context.Books
+                .Select(book => new BookModel
+                {
+                    Id = book.Id,
+                    Title = book.Title,
+                    Description = book.Description,
+                    CoverImageUrl = book.CoverImageUrl,
+                    Author = book.Author
+                }).Take(count).ToListAsync();
+        }
+
+        private async Task<List<BookModel>> GetNewComingSoonBooksAsync(int count)
+        {
+            return await _context.Books
+                .Select(book => new BookModel
+                {
+                    Id = book.Id,
+                    Title = book.Title,
+                    Description = book.Description,
+                    CoverImageUrl = book.CoverImageUrl,
+                    Author = book.Author
+                }).Take(count).ToListAsync();
+        }
+
+        private async Task<List<BookModel>> GetTrendingBooksAsync(int count)
+        {
+            return await _context.Books
+                  .Select(book => new BookModel
+                  {
+                      Id = book.Id,
+                      Title = book.Title,
+                      Description = book.Description,
+                      CoverImageUrl = book.CoverImageUrl,
+                      Author = book.Author
+                  }).Take(count).ToListAsync();
+        }
+
 
         public async Task<int> AddNewBook(BookModel model)
         {
@@ -117,9 +187,21 @@ namespace BookStore.Repository
             return newBook.Id;
         }
 
-        public List<BookModel> SearchBook(string title, string authorName)
+        public async Task<List<BookModel>> SearchBook(string v, int page)
         {
-            return null;
+            return await _context.Books
+                            .Where(b => b.Title.Contains(v))
+                            .Select(book => new BookModel
+                            {
+                                Id = book.Id,
+                                Title = book.Title,
+                                Description = book.Description,
+                                CoverImageUrl = book.CoverImageUrl,
+                                Author = book.Author,
+                            })
+                            .Skip((page - 1) * 16)
+                            .Take(16)
+                            .ToListAsync();
         }
     }
 }

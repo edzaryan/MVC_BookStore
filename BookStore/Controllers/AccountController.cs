@@ -9,10 +9,7 @@ namespace BookStore.Controllers
     {
         private readonly IAccountRepository _accountRepository;
 
-        public AccountController(IAccountRepository accountRepository)
-        {
-            _accountRepository = accountRepository;
-        }
+        public AccountController(IAccountRepository accountRepository) => _accountRepository = accountRepository;
 
 
         [HttpGet("signup")]
@@ -20,6 +17,7 @@ namespace BookStore.Controllers
         {
             return View();
         }
+
 
         [HttpPost("signup")]
         public async Task<IActionResult> Signup(SignUpUserModel userModel) 
@@ -45,11 +43,13 @@ namespace BookStore.Controllers
             return View(userModel);
         }
 
+
         [HttpGet("login")]
         public IActionResult Login() 
         {
             return View();
         }
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login(SignInModel signInModel, string returnUrl)
@@ -85,6 +85,7 @@ namespace BookStore.Controllers
             return View(signInModel);
         }
 
+
         [HttpGet("logout")]
         public async Task<IActionResult> Logout()
         {
@@ -92,12 +93,14 @@ namespace BookStore.Controllers
 
             return RedirectToAction("Index", "Home");
         }
+        
 
         [HttpGet("change-password")]
         public IActionResult ChangePassword()
         {
             return View();
         }
+
 
         [HttpPost("change-password")]
         public async Task<IActionResult> ChangePassword(ChangePasswordModel model)
@@ -122,6 +125,7 @@ namespace BookStore.Controllers
             return View(model);
         }
 
+
         [HttpGet("confirm-email")]
         public async Task<IActionResult> ConfirmEmail(string uid, string token, string email)
         {
@@ -144,6 +148,7 @@ namespace BookStore.Controllers
 
             return View(model);
         }
+
 
         [HttpPost("confirm-email")]
         public async Task<IActionResult> ConfirmEmail(EmailConfirmModel model)
@@ -170,11 +175,13 @@ namespace BookStore.Controllers
             return View(model);
         }
 
+
         [AllowAnonymous, HttpGet("forgot-password")]
         public IActionResult ForgotPassword()
         {
             return View();
         }
+
 
         [AllowAnonymous, HttpPost("forgot-password")]
         public async Task<IActionResult> ForgotPassword(ForgotPasswordModel model)
@@ -195,6 +202,7 @@ namespace BookStore.Controllers
             return View(model);
         }
 
+
         [AllowAnonymous, HttpGet("reset-password")]
         public IActionResult ResetPassword(string uid, string token)
         {
@@ -206,6 +214,7 @@ namespace BookStore.Controllers
 
             return View(resetPasswordModel);
         }
+
 
         [AllowAnonymous, HttpPost("reset-password")]
         public async Task<IActionResult> ResetPassword(ResetPasswordModel model)
@@ -230,5 +239,6 @@ namespace BookStore.Controllers
 
             return View(model);
         }
+        
     }
 }
